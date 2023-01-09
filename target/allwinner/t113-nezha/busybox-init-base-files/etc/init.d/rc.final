@@ -1,0 +1,35 @@
+#!/bin/sh
+
+echo "------run rc.final file-----"
+
+amixer cset name="Headphone Switch" 1
+
+if [ -e /tmp/private/ ]; then 
+	echo "clear private mount info"
+	umount /tmp/private/
+	rm -rf /tmp/private
+	ubiblock -r /dev/by-name/private
+fi
+
+echo "------light up RGB LED-----"
+echo 255 > /sys/class/leds/sunxi_led0r/brightness
+echo 255 > /sys/class/leds/sunxi_led1g/brightness
+echo 255 > /sys/class/leds/sunxi_led2b/brightness
+
+sleep 1
+
+echo 0 > /sys/class/leds/sunxi_led0r/brightness
+echo 0 > /sys/class/leds/sunxi_led0g/brightness
+echo 0 > /sys/class/leds/sunxi_led0b/brightness
+echo 0 > /sys/class/leds/sunxi_led1r/brightness
+echo 0 > /sys/class/leds/sunxi_led1g/brightness
+echo 0 > /sys/class/leds/sunxi_led1b/brightness
+echo 0 > /sys/class/leds/sunxi_led2r/brightness
+echo 0 > /sys/class/leds/sunxi_led2g/brightness
+echo 0 > /sys/class/leds/sunxi_led2b/brightness
+
+echo "------light up LED-----"
+
+echo 139 > /sys/class/gpio/export
+echo out > /sys/class/gpio/gpio139/direction
+echo 1 > /sys/class/gpio/gpio139/value
