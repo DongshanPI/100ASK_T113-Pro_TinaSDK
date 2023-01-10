@@ -7,9 +7,9 @@ CONFIG_HAVE_DOT_CONFIG=y
 # CONFIG_TARGET_d1_h_nezha is not set
 # CONFIG_TARGET_d1_h_nezha_min is not set
 # CONFIG_TARGET_d1s_nezha is not set
-CONFIG_TARGET_t113_nezha=y
-CONFIG_TARGET_t113_nezha_=y
-CONFIG_TARGET_BOARD="t113-nezha"
+CONFIG_TARGET_t113_100ask=y
+CONFIG_TARGET_t113_100ask_=y
+CONFIG_TARGET_BOARD="t113-100ask"
 CONFIG_DEFAULT_TARGET_OPTIMIZATION="-Os -pipe -march=armv7-a -mtune=cortex-a7 -mfpu=neon"
 CONFIG_CPU_TYPE="cortex-a7+neon"
 CONFIG_LINUX_5_4=y

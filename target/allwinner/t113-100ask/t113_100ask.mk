@@ -9,6 +9,6 @@ PRODUCT_AAPT_PERF_CONFIG := xhdpi
 PRODUCT_CHARACTERISTICS := musicbox
 
 PRODUCT_BRAND := allwinner
-PRODUCT_NAME := t113_nezha
-PRODUCT_DEVICE := t113-nezha
-PRODUCT_MODEL := Allwinner t113 nezha board
+PRODUCT_NAME := t113_100ask
+PRODUCT_DEVICE := t113-100ask
+PRODUCT_MODEL := Allwinner t113 100ask pro board

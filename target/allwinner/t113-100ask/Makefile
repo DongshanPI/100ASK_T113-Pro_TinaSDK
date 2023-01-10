@@ -8,8 +8,8 @@
 include $(TOPDIR)/rules.mk
 
 ARCH:=arm
-BOARD:=t113-nezha
-BOARDNAME:=t113-nezha
+BOARD:=t113-100ask
+BOARDNAME:=t113-100ask
 FEATURES:=fpu dt
 CPU_TYPE:=cortex-a7
 CPU_SUBTYPE:=neon
