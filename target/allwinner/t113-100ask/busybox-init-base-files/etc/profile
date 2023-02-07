@@ -8,7 +8,7 @@ fgrep -sq '/ overlay ro,' /proc/mounts && {
 }
 
 #set defualt machine date
-date -s 2022-06-01
+date -s 2023-02-06
 
 export PATH="%PATH%"
 export HOME=$(grep -e "^${USER:-root}:" /etc/passwd | cut -d ":" -f 6)
@@ -18,8 +18,11 @@ export LD_LIBRARY_PATH=/usr/lib/eyesee-mpp:${LD_LIBRARY_PATH}
 
 ulimit -c unlimited
 grep debugfs /proc/filesystems && mount -t debugfs none /sys/kernel/debug
-alias usbhost="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_host"
-alias usbdevice="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_device"
+#alias usbhost="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_host"
+#alias usbdevice="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_device"
+
+cat /sys/bus/platform/drivers/otg\ manager/soc@3000000:usbc0@0/usb_device
+
 [ -x /bin/more ] || alias more=less
 [ -x /usr/bin/vim ] && alias vi=vim || alias vim=vi
 
