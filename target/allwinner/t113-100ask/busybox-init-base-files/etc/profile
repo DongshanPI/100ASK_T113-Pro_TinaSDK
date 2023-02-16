@@ -21,7 +21,7 @@ grep debugfs /proc/filesystems && mount -t debugfs none /sys/kernel/debug
 #alias usbhost="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_host"
 #alias usbdevice="cat /sys/devices/platform/soc@3000000/soc@3000000:usbc0@0/usb_device"
 
-cat /sys/bus/platform/drivers/otg\ manager/soc@3000000:usbc0@0/usb_device
+# cat /sys/bus/platform/drivers/otg\ manager/soc@3000000:usbc0@0/usb_device
 
 [ -x /bin/more ] || alias more=less
 [ -x /usr/bin/vim ] && alias vi=vim || alias vim=vi
