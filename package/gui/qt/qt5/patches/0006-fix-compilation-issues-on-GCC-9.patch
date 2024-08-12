@@ -1,0 +1,72 @@
+From 5d9db8b5247f5cd3271674b1b3985e92b01a4603 Mon Sep 17 00:00:00 2001
+From: anruliu <anruliu@allwinnertech.com>
+Date: Fri, 7 Apr 2023 09:51:34 +0800
+Subject: [PATCH] fix compilation issues on GCC 9
+
+Signed-off-by: anruliu <anruliu@allwinnertech.com>
+---
+ .../src/3rdparty/mapbox-gl-native/src/mbgl/util/convert.cpp      | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/qtlocation/src/3rdparty/mapbox-gl-native/src/mbgl/util/convert.cpp b/qtlocation/src/3rdparty/mapbox-gl-native/src/mbgl/util/convert.cpp
+index 97bfe9108..56d3e1730 100644
+--- a/qtlocation/src/3rdparty/mapbox-gl-native/src/mbgl/util/convert.cpp
++++ b/qtlocation/src/3rdparty/mapbox-gl-native/src/mbgl/util/convert.cpp
+@@ -1,3 +1,4 @@
++#include <cstdint>
+ #include <mbgl/util/convert.hpp>
+ 
+ namespace mbgl {
+diff --git a/qtwebengine/src/3rdparty/chromium/media/cdm/supported_cdm_versions.h b/qtwebengine/src/3rdparty/chromium/media/cdm/supported_cdm_versions.h
+index 857a3ab..e56ff5e 100644
+--- a/qtwebengine/src/3rdparty/chromium/media/cdm/supported_cdm_versions.h
++++ b/qtwebengine/src/3rdparty/chromium/media/cdm/supported_cdm_versions.h
+@@ -6,6 +6,7 @@
+ #define MEDIA_CDM_SUPPORTED_CDM_VERSIONS_H_
+
+ #include <array>
++#include <cstddef>
+
+ #include "media/base/media_export.h"
+ #include "media/cdm/api/content_decryption_module.h"
+diff --git a/qtwebengine/src/3rdparty/chromium/media/media_options.gni b/qtwebengine/src/3rdparty/chromium/media/media_options.gni
+index 2f97925..0a77dc9 100644
+--- a/qtwebengine/src/3rdparty/chromium/media/media_options.gni
++++ b/qtwebengine/src/3rdparty/chromium/media/media_options.gni
+@@ -35,7 +35,7 @@ declare_args() {
+   # Enable usage of FFmpeg within the media library. Used for most software
+   # based decoding, demuxing, and sometimes optimized FFTs. If disabled,
+   # implementors must provide their own demuxers and decoders.
+-  media_use_ffmpeg = true
++  media_use_ffmpeg = false
+
+   # Enable usage of libvpx within the media library. Used for software based
+   # decoding of VP9 and VP8A type content.
+diff --git a/qtwebengine/src/3rdparty/chromium/media/BUILD.gn b/qtwebengine/src/3rdparty/chromium/media/BUILD.gn
+index b36c6f5cc..ed410ab5d 100644
+--- a/qtwebengine/src/3rdparty/chromium/media/BUILD.gn
++++ b/qtwebengine/src/3rdparty/chromium/media/BUILD.gn
+@@ -11,7 +11,6 @@ import("//build/config/ui.gni")
+ import("//media/media_options.gni")
+ import("//testing/libfuzzer/fuzzer_test.gni")
+ import("//testing/test.gni")
+-import("//third_party/ffmpeg/ffmpeg_options.gni")
+
+ buildflag_header("media_buildflags") {
+   header = "media_buildflags.h"
+diff --git a/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/config.gni b/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/config.gni
+index 48667a135..04cd12830 100644
+--- a/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/config.gni
++++ b/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/config.gni
+@@ -37,7 +37,7 @@ declare_args() {
+   use_low_quality_image_interpolation = is_android
+
+   # If true, ffmpeg will be used for decoding audio.
+-  use_webaudio_ffmpeg = !is_mac && !is_android
++  use_webaudio_ffmpeg = false
+
+   # If true, webgl2-compute context will be supported.
+   support_webgl2_compute_context = !is_android
+-- 
+2.29.0
+

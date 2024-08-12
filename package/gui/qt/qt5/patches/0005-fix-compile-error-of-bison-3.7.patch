@@ -1,0 +1,24 @@
+From 4fed53e9f4cdc3afc96eff6e2510d1444b7c4a48 Mon Sep 17 00:00:00 2001
+From: liuchenyang <liuchenyang@allwinnertech.com>
+Date: Mon, 18 Apr 2022 16:03:52 +0800
+Subject: [PATCH] fix compile error of bison 3.7
+
+---
+ .../third_party/blink/renderer/build/scripts/rule_bison.py       | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/build/scripts/rule_bison.py b/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/build/scripts/rule_bison.py
+index c706533..682f175 100755
+--- a/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/build/scripts/rule_bison.py
++++ b/qtwebengine/src/3rdparty/chromium/third_party/blink/renderer/build/scripts/rule_bison.py
+@@ -101,7 +101,6 @@ assert outputHTmp != None
+ outputHFile = open(outputHTmp)
+ outputHContents = outputHFile.read()
+ outputHFile.close()
+-os.unlink(outputHTmp)
+ 
+ # Rewrite the generated header with #include guards.
+ outputH = os.path.join(outputDir, inputRoot + '.h')
+-- 
+2.29.0
+

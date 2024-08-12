@@ -1,0 +1,25 @@
+From f058fb7912e60973a8cb15bb1e44ba2c4c728ce0 Mon Sep 17 00:00:00 2001
+From: liuchenyang <liuchenyang@allwinnertech.com>
+Date: Thu, 25 Nov 2021 10:16:41 +0800
+Subject: [PATCH] fix compile error to solve the path problem for tinav5
+
+---
+ qtwebengine/src/core/config/linux.pri | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/qtwebengine/src/core/config/linux.pri b/qtwebengine/src/core/config/linux.pri
+index 155ee1a..01ccaf4 100644
+--- a/qtwebengine/src/core/config/linux.pri
++++ b/qtwebengine/src/core/config/linux.pri
+@@ -150,7 +150,7 @@ host_build {
+         isEmpty(PKG_CONFIG_HOST): PKG_CONFIG_HOST = $$QMAKE_PKG_CONFIG_HOST
+         gn_args += host_pkg_config=\"$$PKG_CONFIG_HOST\"
+         gn_args += aw_staging_dir=\"$$system_path($$PKG_CONFIG_SYSROOT_DIR)\"
+-        gn_args += aw_staging_host_dir=\"$$system_path($$PKG_CONFIG_SYSROOT_DIR)/host\"
++        gn_args += aw_staging_host_dir=\"$$system_path($$PKG_CONFIG_SYSROOT_DIR)/../hostpkg\"
+     }
+ 
+     qtConfig(webengine-system-zlib) {
+-- 
+2.29.0
+
