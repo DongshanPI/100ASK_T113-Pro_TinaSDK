@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/aic8800/aic8800_fdrv/aic8800_fdrv.ko := arm-openwrt-linux-muslgnueabi-ld -r  -EL  --build-id  -T ./scripts/module-common.lds -o drivers/net/wireless/aic8800/aic8800_fdrv/aic8800_fdrv.ko drivers/net/wireless/aic8800/aic8800_fdrv/aic8800_fdrv.o drivers/net/wireless/aic8800/aic8800_fdrv/aic8800_fdrv.mod.o;  true

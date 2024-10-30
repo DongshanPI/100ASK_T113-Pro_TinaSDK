@@ -556,3 +556,28 @@ define KernelPackage/sunxi-cedar/description
   Kernel modules for sunxi-cedar support
 endef
 $(eval $(call KernelPackage,sunxi-i2c))
+
+define KernelPackage/net-aic8800
+  SUBMENU:=$(WIRELESS_MENU)
+  TITLE:=aic8800 support (staging)
+  DEPENDS:=+@IPV6 +@USES_AICSEMI
+  KCONFIG:=\
+    CONFIG_AIC8800_BTLPM_SUPPORT=m \
+    CONFIG_AIC8800_WLAN_SUPPORT=m \
+    CONFIG_AIC_WLAN_SUPPORT=m \
+    CONFIG_PM=y \
+    CONFIG_RFKILL=y \
+    CONFIG_RFKILL_PM=y \
+    CONFIG_RFKILL_GPIO=y
+
+  FILES+=$(LINUX_DIR)/drivers/net/wireless/aic8800/aic8800_bsp/aic8800_bsp.ko
+  FILES+=$(LINUX_DIR)/drivers/net/wireless/aic8800/aic8800_btlpm/aic8800_btlpm.ko
+  FILES+=$(LINUX_DIR)/drivers/net/wireless/aic8800/aic8800_fdrv/aic8800_fdrv.ko
+  AUTOLOAD:=$(call AutoProbe,aic8800_bsp aic8800_btlpm aic8800_fdrv)
+endef
+
+define KernelPackage/net-aic8800/description
+ Kernel modules for aic8800 support
+endef
+
+$(eval $(call KernelPackage,net-aic8800))

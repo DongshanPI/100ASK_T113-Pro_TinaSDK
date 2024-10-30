@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/aic8800/aic8800_btlpm/aic8800_btlpm.o := arm-openwrt-linux-muslgnueabi-ld  -EL    -r -o drivers/net/wireless/aic8800/aic8800_btlpm/aic8800_btlpm.o drivers/net/wireless/aic8800/aic8800_btlpm/aic_bluetooth_main.o drivers/net/wireless/aic8800/aic8800_btlpm/rfkill.o drivers/net/wireless/aic8800/aic8800_btlpm/lpm.o
