@@ -24,7 +24,7 @@ debug_mode  = 8
 ;----------------------------------------------------------------------------------
 [target]
 boot_clock   	= 1008
-storage_type    = 5
+storage_type    = 1
 nand_use_ubi	= 1
 
 [spinor_para]
