@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/focaltech_touch/focaltech_flash/built-in.a := echo >/dev/null; rm -f drivers/input/touchscreen/focaltech_touch/focaltech_flash/built-in.a; arm-openwrt-linux-muslgnueabi-ar cDPrST drivers/input/touchscreen/focaltech_touch/focaltech_flash/built-in.a drivers/input/touchscreen/focaltech_touch/focaltech_flash/focaltech_upgrade_ft8201.o

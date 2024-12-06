@@ -54,13 +54,13 @@ size = 16384
 
 [partition]
     name         = boot
-    size         = 7680
+    size         = 7728
     downloadfile = "boot.fex"
     user_type    = 0x8000
 
 [partition]
     name         = rootfs
-    size         = 73800
+    size         = 153088
     downloadfile = "rootfs.fex"
     user_type    = 0x8000
 

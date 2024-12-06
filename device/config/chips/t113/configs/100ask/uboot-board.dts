@@ -365,6 +365,7 @@
 	/*VCC-PD*/
 /*	dcdc1-supply = <&reg_dcdc1>;*/
 };
+
 &lcd0 {
 		/* part 1 */
         lcd_used            = <1>;
@@ -403,55 +404,9 @@
 	/* part 6 */
 	lcd_power = "vcc-lcd";
 	lcd_pin_power = "vcc-pd";
-	pinctrl-0 = <&rgb18_pins_a>;
-	pinctrl-1 = <&rgb18_pins_b>;
+//	pinctrl-0 = <&rgb18_pins_a>;
+//	pinctrl-1 = <&rgb18_pins_b>;
 };
-
-/*
-&lcd0 {
-	lcd_used            = <1>;
-
-	lcd_driver_name     = "he0801a068";
-	lcd_backlight       = <50>;
-	lcd_if              = <4>;
-
-	lcd_x               = <800>;
-	lcd_y               = <1280>;
-	lcd_width           = <800>;
-	lcd_height          = <1280>;
-	lcd_dclk_freq       = <78>;
-
-	lcd_pwm_used        = <1>;
-	lcd_pwm_ch          = <7>;
-	lcd_pwm_freq        = <50000>;
-	lcd_pwm_pol         = <1>;
-	lcd_pwm_max_limit   = <255>;
-
-	lcd_hbp             = <149>;
-	lcd_ht              = <978>;
-	lcd_hspw            = <16>;
-	lcd_vbp             = <7>;
-	lcd_vt              = <1329>;
-	lcd_vspw            = <5>;
-
-	lcd_dsi_lane        = <4>;
-	lcd_dsi_if          = <0>;
-	lcd_dsi_format      = <0>;
-	lcd_dsi_te          = <0>;
-	lcd_frm             = <0>;
-	lcd_io_phase        = <0>;
-	lcd_gamma_en        = <0>;
-	lcd_bright_curve_en = <0>;
-	lcd_cmap_en         = <0>;
-
-	deu_mode            = <0>;
-	lcdgamma4iep        = <22>;
-	smart_color         = <90>;
-
-	lcd_gpio_0 = <&pio PG 13 GPIO_ACTIVE_HIGH>;
-	pinctrl-0 = <&dsi4lane_pins_a>;
-	pinctrl-1 = <&dsi4lane_pins_b>;
-};*/
 
 /*&lcd0 {
 	lcd_used            = <1>;

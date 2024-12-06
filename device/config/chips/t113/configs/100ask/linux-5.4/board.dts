@@ -415,27 +415,25 @@
 		function = "gpio_in";
 		drive-strength = <10>;
 	};
-
 	spi1_pins_a: spi1@0 {
-		pins = "PB11", "PB10", "PB9","PB8", "PB0"; /*clk mosi miso hold wp*/
-		function = "spi1";
-		drive-strength = <10>;
-	};
+                pins = "PD11", "PD12"; /*clk mosi miso hold wp*/
+                function = "spi1";
+                drive-strength = <10>;
+        };
 
-	spi1_pins_b: spi1@1 {
-		pins = "PB12";
-		function = "spi1";
-		drive-strength = <10>;
-		bias-pull-up;   // only CS should be pulled up
-	};
+        spi1_pins_b: spi1@1 {
+                pins = "PD10";
+                function = "spi1";
+                drive-strength = <10>;
+                bias-pull-up;   // only CS should be pulled up
+        };
 
-	spi1_pins_c: spi1@2 {
-		allwinner,pins = "PB0", "PB8", "PB9", "PB10","PB11", "PB12";
-		allwinner,function = "gpio_in";
-		allwinner,muxsel = <0>;
-		drive-strength = <10>;
-	};
-
+        spi1_pins_c: spi1@2 {
+                allwinner,pins = "PD10", "PD11", "PD12", "PD13","PD14", "PD15";
+                allwinner,function = "gpio_in";
+                allwinner,muxsel = <0>;
+                drive-strength = <10>;
+        };
 	pwm3_pin_a: pwm3@0 {
 		pins = "PB0";
 		function = "pwm3";
@@ -642,11 +640,12 @@
         dma-names = "tx", "rx";
         status = "okay";
 
+#if 0
         ctp@14 {
                 compatible = "allwinner,goodix";
                 device_type = "ctp";
                 reg = <0x14>;
-                status = "okay";
+                status = "disabled";
                 ctp_name = "gt9xxnew_ts";
                 ctp_twi_id = <0x2>;
                 ctp_twi_addr = <0x14>;
@@ -658,6 +657,24 @@
                 ctp_int_port = <&pio PB 3 GPIO_ACTIVE_HIGH>;
                 ctp_wakeup = <&pio PB 2 GPIO_ACTIVE_HIGH>;
         };
+#endif
+
+	focaltech@38{ 
+		status = "okay";
+		compatible = "focaltech,fts";	
+		reg = <0x38>;  					
+		interrupt-parent = <&pio>;				
+		interrupts = <PB 3 IRQ_TYPE_LEVEL_LOW>;
+		focaltech,reset-gpio = <&pio PB 2 GPIO_ACTIVE_HIGH>; 
+		focaltech,irq-gpio = <&pio PB 3 IRQ_TYPE_LEVEL_LOW>; 
+		//focaltech,irq-gpios = <&pio PB 3 GPIO_ACTIVE_LOW>; 
+
+		focaltech,max-touch-number = <10>;			
+		focaltech,display-coords =  <0 0 320 480>;
+		
+		focaltech,reg_vdd = <0x0000001f>;
+    		focaltech,reg_avdd = <0x0000001f>; 
+	};
 };
 
 &twi3 {
@@ -689,14 +706,15 @@
         };
 };
 &spi1 {
-	clock-frequency = <100000000>;
+//	clock-frequency = <100000000>;
 	pinctrl-0 = <&spi1_pins_a &spi1_pins_b>;
 	pinctrl-1 = <&spi1_pins_c>;
 	pinctrl-names = "default", "sleep";
 	spi_slave_mode = <0>;
 	spi1_cs_number = <1>;
         spi1_cs_bitmap = <1>;
-	status = "disabled";
+    	spi_dbi_enable = <0>;
+	status = "okay";
 
 	spi_board1@0 {
 		device_type = "spi_board1";
@@ -707,6 +725,40 @@
 		spi-tx-bus-width = <0x4>;
 		status = "disabled";
 	};
+
+	st7789v@0 {
+        	status = "okay";
+        	compatible = "sitronix,st7789v";
+        	reg = <0>;
+       		spi-max-frequency = <60000000>;
+        	rotate = <0>;
+        	bgr;
+        	fps = <60>;
+        	buswidth = <8>;
+        	reset = <&pio PD 15 GPIO_ACTIVE_LOW>;
+        	dc = <&pio PD 14 GPIO_ACTIVE_LOW>;
+		latch = <&pio PD 16 GPIO_ACTIVE_HIGH>;
+        	debug = <1>;
+    	};
+
+	st7796@1 {
+                status = "okay";
+                compatible = "sitronix,st7796";
+                reg = <1>;
+                spi-max-frequency =<12500000>;
+                fps =<60>;
+                buswidth = <8>;
+                rotate =<0>;
+                width = <320>;
+                height = <480>;
+                bpp = <24>;
+                bgr;
+                regwidth = <8>;
+                debug = <0x00>;  //0x20 show fps
+                txbuflen = <307200>;
+                spi-cpol;
+                spi-cpha;
+       };
 };
 
 &ledc {
@@ -1256,7 +1308,7 @@ pull up or pull down(default 0), driver level(default 1), data>
 };*/
 
 &lcd0 {
-		/* part 1 */
+	/* part 1 */
         lcd_used            = <1>;
         lcd_driver_name     = "default_lcd";
 	lcd_backlight	    = <100>;
@@ -1294,8 +1346,8 @@ pull up or pull down(default 0), driver level(default 1), data>
 	/* part 6 */
 	lcd_power = "vcc-lcd";
 	lcd_pin_power = "vcc-pd";
-	pinctrl-0 = <&rgb18_pins_a>;
-	pinctrl-1 = <&rgb18_pins_b>;
+	//pinctrl-0 = <&rgb18_pins_a>;
+	//pinctrl-1 = <&rgb18_pins_b>;
 };
 
 
