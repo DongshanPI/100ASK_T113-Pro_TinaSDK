@@ -378,13 +378,17 @@
 	/* part 3 */
         lcd_x               = <1024>;
         lcd_y               = <600>;
-        lcd_width           = <154>;
-        lcd_height          = <85>;
+        //lcd_width           = <154>;
+        lcd_width           = <280>;
+        //lcd_height          = <85>;
+        lcd_height          = <150>;
         lcd_dclk_freq       = <51>;
-        lcd_hbp             = <140>;
+        //lcd_hbp             = <140>;
+        lcd_hbp             = <160>;
         lcd_ht              = <1344>;
         lcd_hspw            = <20>;
-        lcd_vbp             = <20>;
+        //lcd_vbp             = <20>;
+        lcd_vbp             = <23>;
         lcd_vt              = <635>;
         lcd_vspw            = <3>;
 		
