@@ -1,0 +1,11 @@
+#!/bin/sh
+echo "------run rc.modules file-----"
+export boot_partition=$(fw_printenv -n boot_partition 2>/dev/null)
+if [ x${boot_partition} == xboot ];then 
+	/sbin/insmod /lib/modules/5.4.61/usb-storage.ko
+	/sbin/insmod /lib/modules/5.4.61/sunxi_gpadc.ko
+	/sbin/insmod /lib/modules/5.4.61/gt9xxnew_ts.ko
+	echo 0x07090160 0x083F10F7 > /sys/class/sunxi_dump/write
+	/sbin/insmod /lib/modules/5.4.61/xr829.ko
+	wpa_supplicant  -Dnl80211 -iwlan0 -c /etc/wifi/wpa_supplicant.conf -B
+fi

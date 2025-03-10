@@ -1,0 +1,3268 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+                              libsun8iw20p1_sboot.o (__aeabi_uidiv)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+                              libsun8iw20p1_sboot.o (__aeabi_idiv)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+                              libsun8iw20p1_sboot.o (__aeabi_fsub)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+                              libsun8iw20p1_sboot.o (__aeabi_fmul)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+                              libsun8iw20p1_sboot.o (__aeabi_f2iz)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+                              libsun8iw20p1_sboot.o (__aeabi_uldivmod)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+                              /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+                              /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+
+Discarded input sections
+
+ .text.__msdelay
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.timer_init
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.sdelay   0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.timer_exit
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.enable_smp
+                0x0000000000000000        0xe libsun8iw20p1_sboot.o
+ .text.neon_enable
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.sunxi_assert_arisc
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.sunxi_deassert_arisc
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.sunxi_clock_init_key
+                0x0000000000000000       0x28 libsun8iw20p1_sboot.o
+ .text.sunxi_clock_exit_key
+                0x0000000000000000       0x14 libsun8iw20p1_sboot.o
+ .text.strncpy  0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.strncat  0x0000000000000000       0x28 libsun8iw20p1_sboot.o
+ .text.strchr   0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.strrchr  0x0000000000000000       0x20 libsun8iw20p1_sboot.o
+ .text.strnlen  0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.strspn   0x0000000000000000       0x20 libsun8iw20p1_sboot.o
+ .text.memscan  0x0000000000000000       0x16 libsun8iw20p1_sboot.o
+ .text.strstr   0x0000000000000000       0x40 libsun8iw20p1_sboot.o
+ .text.vprintf  0x0000000000000000       0x1c libsun8iw20p1_sboot.o
+ .text.sunxi_get_printf_debug_mode
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.puts     0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.print_sys_tick
+                0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.__aeabi_unwind_cpp_pr0
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.u8_to_string_hex
+                0x0000000000000000       0x1c libsun8iw20p1_sboot.o
+ .text.__assert_fail
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_set_cfgbank
+                0x0000000000000000       0x22 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_set_cfgpin
+                0x0000000000000000       0x28 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_get_cfgbank
+                0x0000000000000000       0x16 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_get_cfgpin
+                0x0000000000000000       0x20 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_set_drv
+                0x0000000000000000       0x48 libsun8iw20p1_sboot.o
+ .text.sunxi_gpio_set_pull
+                0x0000000000000000       0x48 libsun8iw20p1_sboot.o
+ .text.rtc_set_fel_flag
+                0x0000000000000000       0x20 libsun8iw20p1_sboot.o
+ .text.axp_i2c_write
+                0x0000000000000000       0x16 libsun8iw20p1_sboot.o
+ .text.axp_i2c_read
+                0x0000000000000000       0x12 libsun8iw20p1_sboot.o
+ .text.pmic_bus_setbits
+                0x0000000000000000       0x28 libsun8iw20p1_sboot.o
+ .text.pmic_bus_clrbits
+                0x0000000000000000       0x2a libsun8iw20p1_sboot.o
+ .text.super_standby_mode
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.sunxi_dma_reg_func
+                0x0000000000000000       0x34 libsun8iw20p1_sboot.o
+ .text.sunxi_dma_request_from_last
+                0x0000000000000000       0x28 libsun8iw20p1_sboot.o
+ .text.sunxi_dma_stop
+                0x0000000000000000       0x12 libsun8iw20p1_sboot.o
+ .text.sunxi_dma_install_int
+                0x0000000000000000       0x4c libsun8iw20p1_sboot.o
+ .text.sunxi_dma_enable_int
+                0x0000000000000000       0x68 libsun8iw20p1_sboot.o
+ .text.get_boot_dram_training_enable_flag
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.get_boot_dram_update_flag
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.dram_udelay
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.paraconfig
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.bit_delay_compensation
+                0x0000000000000000       0x78 libsun8iw20p1_sboot.o
+ .text.set_master_priority_pad
+                0x0000000000000000       0xb0 libsun8iw20p1_sboot.o
+ .text.ccm_get_sscg
+                0x0000000000000000       0x84 libsun8iw20p1_sboot.o
+ .text.ccm_set_pll_sscg
+                0x0000000000000000       0x64 libsun8iw20p1_sboot.o
+ .text.mctl_init
+                0x0000000000000000       0x94 libsun8iw20p1_sboot.o
+ .text.mmc_switch_part
+                0x0000000000000000       0x2a libsun8iw20p1_sboot.o
+ .text.mmc_set_bus_width
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.mmc_unregister
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.get_card_type
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.mmc_update_host_caps_f
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.sunxi_mmc_exit
+                0x0000000000000000       0x38 libsun8iw20p1_sboot.o
+ .text._get_pll4_periph1_clk
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text._Getpll6Clk
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text._close_ndfc_clk_v1
+                0x0000000000000000       0x30 libsun8iw20p1_sboot.o
+ .text._close_ndfc_ahb_gate_and_reset_v1
+                0x0000000000000000       0x3c libsun8iw20p1_sboot.o
+ .text.NAND_SetClk
+                0x0000000000000000       0xc0 libsun8iw20p1_sboot.o
+ .text.NAND_GetClk
+                0x0000000000000000       0x7c libsun8iw20p1_sboot.o
+ .text.NAND_EnRbInt
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.NAND_ClearRbInt
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.NAND_WaitRbReady
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.NAND_RbInterrupt
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.NFC_InitDDRParam
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.NFC_Is_Toggle_Interface
+                0x0000000000000000       0x1c libsun8iw20p1_sboot.o
+ .text._vender_pre_condition
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text._add_cmd_list
+                0x0000000000000000       0x22 libsun8iw20p1_sboot.o
+ .text._cal_real_chip
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text._cal_real_rb
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text._random_seed_init
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text._cal_random_seed
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.PHY_SimpleRead_1K
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.Getpll6Clk
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.SPINAND_GetClk
+                0x0000000000000000       0x24 libsun8iw20p1_sboot.o
+ .text.SPINAND_Malloc
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.get_power_source
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.set_power_reset
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.probe_power_key
+                0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.set_ddr4_2v5_voltage
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.set_sys_voltage_ext
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.set_efuse_voltage
+                0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.axp_reg_read
+                0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.axp_reg_write
+                0x0000000000000000       0x18 libsun8iw20p1_sboot.o
+ .text.get_power_mode
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.axp1530_probe_power_key
+                0x0000000000000000       0x40 libsun8iw20p1_sboot.o
+ .text.axp1530_set_efuse_voltage
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.axp1530_reg_read
+                0x0000000000000000        0xa libsun8iw20p1_sboot.o
+ .text.axp1530_reg_write
+                0x0000000000000000        0xa libsun8iw20p1_sboot.o
+ .text.__sha256_padding
+                0x0000000000000000      0x10a libsun8iw20p1_sboot.o
+ .text.sunxi_ce_close
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.ss_get_addr_align
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.sid_set_security_mode
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.sid_probe_security_mode
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.CRYPTO_remalloc
+                0x0000000000000000       0x14 libsun8iw20p1_sboot.o
+ .text.OBJ_nid2ln
+                0x0000000000000000       0x54 libsun8iw20p1_sboot.o
+ .text.OBJ_nid2sn
+                0x0000000000000000       0x64 libsun8iw20p1_sboot.o
+ .text.OBJ_obj2txt
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.ASN1_INTEGER_get
+                0x0000000000000000       0x44 libsun8iw20p1_sboot.o
+ .text.X509_get_serialNumber
+                0x0000000000000000        0x6 libsun8iw20p1_sboot.o
+ .text.ASN1_STRING_print
+                0x0000000000000000       0x56 libsun8iw20p1_sboot.o
+ .text.ASN1_IA5STRING_it
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.i2d_ASN1_TYPE
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.d2i_ASN1_TYPE
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.BIO_write
+                0x0000000000000000       0x68 libsun8iw20p1_sboot.o
+ .text.i2a_ASN1_INTEGER
+                0x0000000000000000       0xb8 libsun8iw20p1_sboot.o
+ .text.d2i_X509_PUBKEY
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.i2d_X509_PUBKEY
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.X509_PUBKEY_new
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.X509_PUBKEY_free
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.X509_it  0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.i2d_X509
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.X509_new
+                0x0000000000000000        0xc libsun8iw20p1_sboot.o
+ .text.RSAPublicKey_it
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.sk_pop_free
+                0x0000000000000000        0x2 libsun8iw20p1_sboot.o
+ .text.BN_free  0x0000000000000000       0x2a libsun8iw20p1_sboot.o
+ .text.BN_copy  0x0000000000000000       0xa0 libsun8iw20p1_sboot.o
+ .text.BN_dup   0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.BN_set_word
+                0x0000000000000000       0x36 libsun8iw20p1_sboot.o
+ .text.BN_set_negative
+                0x0000000000000000       0x10 libsun8iw20p1_sboot.o
+ .text.BN_div_word
+                0x0000000000000000       0x80 libsun8iw20p1_sboot.o
+ .text.BN_sub_word
+                0x0000000000000000       0x78 libsun8iw20p1_sboot.o
+ .text.BN_add_word
+                0x0000000000000000       0x8e libsun8iw20p1_sboot.o
+ .text.BN_bn2dec
+                0x0000000000000000      0x12c libsun8iw20p1_sboot.o
+ .text.bn_div_words
+                0x0000000000000000       0xc0 libsun8iw20p1_sboot.o
+ .text.BN_lshift
+                0x0000000000000000       0xd2 libsun8iw20p1_sboot.o
+ .text.BIO_set  0x0000000000000000       0x50 libsun8iw20p1_sboot.o
+ .text.BIO_new  0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.doapr_outch
+                0x0000000000000000       0x7c libsun8iw20p1_sboot.o
+ .text.fmtint   0x0000000000000000      0x1a4 libsun8iw20p1_sboot.o
+ .text._dopr    0x0000000000000000      0x3c0 libsun8iw20p1_sboot.o
+ .text.BIO_vprintf
+                0x0000000000000000       0x52 libsun8iw20p1_sboot.o
+ .text.BIO_printf
+                0x0000000000000000       0x1a libsun8iw20p1_sboot.o
+ .text.BIO_vsnprintf
+                0x0000000000000000       0x32 libsun8iw20p1_sboot.o
+ .text.BIO_snprintf
+                0x0000000000000000       0x1a libsun8iw20p1_sboot.o
+ .text.BIO_free
+                0x0000000000000000       0x50 libsun8iw20p1_sboot.o
+ .text.BIO_s_mem
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.BIO_clear_flags
+                0x0000000000000000        0xa libsun8iw20p1_sboot.o
+ .text.BIO_set_flags
+                0x0000000000000000        0x8 libsun8iw20p1_sboot.o
+ .text.BIO_read
+                0x0000000000000000       0x84 libsun8iw20p1_sboot.o
+ .text.sunxi_certif_probe_serial_num
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text.sunxi_certif_probe_version
+                0x0000000000000000       0x1c libsun8iw20p1_sboot.o
+ .text.sunxi_certif_probe_ext
+                0x0000000000000000       0x4c libsun8iw20p1_sboot.o
+ .text.sunxi_certif_dump
+                0x0000000000000000        0x4 libsun8iw20p1_sboot.o
+ .text.set_new_version
+                0x0000000000000000       0x2c libsun8iw20p1_sboot.o
+ .text          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .text          0x0000000000000000      0x21c /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x0000000000000000      0x1a2 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x0000000000000000      0x1cc /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x0000000000000000       0x4c /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_addsubsf3.o)
+ .text          0x0000000000000000      0x2a0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x0000000000000000      0x1c5 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0000000000000000      0x1cc /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x0000000000000000       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x0000000000000000       0x38 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_muldivsf3.o)
+ .text          0x0000000000000000       0x4c /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .debug_line    0x0000000000000000      0x102 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .debug_info    0x0000000000000000      0x1cc /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .debug_abbrev  0x0000000000000000       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .debug_frame   0x0000000000000000       0x24 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_arm_fixsfsi.o)
+ .text          0x0000000000000000       0x30 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0000000000000000       0xe9 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0000000000000000      0x1c7 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x0000000000000000       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000000       0x2c /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000000       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .text          0x0000000000000000      0x118 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x0000000000000000        0x8 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000000000000000      0xd80 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x0000000000000000      0x167 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_loc     0x0000000000000000      0x1d7 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x0000000000000000      0x569 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_str     0x0000000000000000     0x177a /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .comment       0x0000000000000000       0x2e /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000000000       0x38 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000000       0x2f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivmoddi4.o)
+ .text          0x0000000000000000        0x0 main/sboot_head.o
+ .data          0x0000000000000000        0x0 main/sboot_head.o
+ .bss           0x0000000000000000        0x0 main/sboot_head.o
+ .data          0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+ .bss           0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD libsun8iw20p1_sboot.o
+LOAD /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+LOAD /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a
+                0x0000000000020480                . = 0x20480
+                0x0000000000020480                . = ALIGN (0x4)
+
+.head           0x0000000000020480       0x70
+ main/sboot_head.o(.rodata)
+ .rodata        0x0000000000020480       0x70 main/sboot_head.o
+                0x0000000000020480                sboot_head
+
+.text           0x00000000000204f0      0xb14
+ /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o(.text)
+ .text          0x00000000000204f0       0xb0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+                0x00000000000204f0                _start
+ *(.text)
+ .text          0x00000000000205a0      0x530 libsun8iw20p1_sboot.o
+                0x00000000000205a0                __v7_flush_dcache_all
+                0x000000000002063c                v7_flush_dcache_all
+                0x0000000000020668                memset0
+                0x0000000000020720                memcpy0
+ .text          0x0000000000020ad0      0x278 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+                0x0000000000020ad0                __udivsi3
+                0x0000000000020ad0                __aeabi_uidiv
+                0x0000000000020d2c                __aeabi_uidivmod
+ .text          0x0000000000020d48      0x2b0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+                0x0000000000020d48                __aeabi_idiv
+                0x0000000000020d48                __divsi3
+                0x0000000000020fdc                __aeabi_idivmod
+ .text          0x0000000000020ff8        0xc /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+                0x0000000000020ff8                __aeabi_ldiv0
+                0x0000000000020ff8                __aeabi_idiv0
+
+.glue_7         0x0000000000021004        0x0
+ .glue_7        0x0000000000021004        0x0 linker stubs
+
+.glue_7t        0x0000000000021004        0x0
+ .glue_7t       0x0000000000021004        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000021004        0x0
+ .vfp11_veneer  0x0000000000021004        0x0 linker stubs
+
+.v4_bx          0x0000000000021004        0x0
+ .v4_bx         0x0000000000021004        0x0 linker stubs
+
+.text.get_sys_ticks
+                0x0000000000021004       0x14
+ .text.get_sys_ticks
+                0x0000000000021004       0x14 libsun8iw20p1_sboot.o
+                0x0000000000021004                get_sys_ticks
+
+.text.timer_get_us
+                0x0000000000021018       0x14
+ .text.timer_get_us
+                0x0000000000021018       0x14 libsun8iw20p1_sboot.o
+                0x0000000000021018                timer_get_us
+
+.text.udelay    0x000000000002102c       0x24
+ .text.udelay   0x000000000002102c       0x24 libsun8iw20p1_sboot.o
+                0x000000000002102c                udelay
+
+.text.mdelay    0x0000000000021050        0xa
+ .text.mdelay   0x0000000000021050        0xa libsun8iw20p1_sboot.o
+                0x0000000000021050                mdelay
+
+.text.__usdelay
+                0x000000000002105a        0x4
+ .text.__usdelay
+                0x000000000002105a        0x4 libsun8iw20p1_sboot.o
+                0x000000000002105a                __usdelay
+
+.text.mmu_enable
+                0x000000000002105e       0x8c
+ .text.mmu_enable
+                0x000000000002105e       0x8c libsun8iw20p1_sboot.o
+                0x000000000002105e                mmu_enable
+
+.text.mmu_disable
+                0x00000000000210ea       0x30
+ .text.mmu_disable
+                0x00000000000210ea       0x30 libsun8iw20p1_sboot.o
+                0x00000000000210ea                mmu_disable
+
+.text.data_sync_barrier
+                0x000000000002111a        0xa
+ .text.data_sync_barrier
+                0x000000000002111a        0xa libsun8iw20p1_sboot.o
+                0x000000000002111a                data_sync_barrier
+
+.text.invalidate_dcache_range
+                0x0000000000021124        0x2
+ .text.invalidate_dcache_range
+                0x0000000000021124        0x2 libsun8iw20p1_sboot.o
+                0x0000000000021124                invalidate_dcache_range
+
+.text.flush_dcache_range
+                0x0000000000021126        0x2
+ .text.flush_dcache_range
+                0x0000000000021126        0x2 libsun8iw20p1_sboot.o
+                0x0000000000021126                flush_dcache_range
+
+.text.boot0_jmp
+                0x0000000000021128        0xc
+ .text.boot0_jmp
+                0x0000000000021128        0xc libsun8iw20p1_sboot.o
+                0x0000000000021128                boot0_jmp
+
+.text.boot0_jmp_optee
+                0x0000000000021134        0xc
+ .text.boot0_jmp_optee
+                0x0000000000021134        0xc libsun8iw20p1_sboot.o
+                0x0000000000021134                boot0_jmp_optee
+
+.text.boot0_jmp_monitor
+                0x0000000000021140        0x2
+ .text.boot0_jmp_monitor
+                0x0000000000021140        0x2 libsun8iw20p1_sboot.o
+                0x0000000000021140                boot0_jmp_monitor
+
+.text.boot0_jmp_opensbi
+                0x0000000000021142        0x4
+ .text.boot0_jmp_opensbi
+                0x0000000000021142        0x4 libsun8iw20p1_sboot.o
+                0x0000000000021142                boot0_jmp_opensbi
+
+.text.sunxi_board_init
+                0x0000000000021148       0x30
+ .text.sunxi_board_init
+                0x0000000000021148       0x30 libsun8iw20p1_sboot.o
+                0x0000000000021148                sunxi_board_init
+
+.text.sunxi_board_exit
+                0x0000000000021178        0x4
+ .text.sunxi_board_exit
+                0x0000000000021178        0x4 libsun8iw20p1_sboot.o
+                0x0000000000021178                sunxi_board_exit
+
+.text.sunxi_key_provision
+                0x000000000002117c       0x50
+ .text.sunxi_key_provision
+                0x000000000002117c       0x50 libsun8iw20p1_sboot.o
+                0x000000000002117c                sunxi_key_provision
+
+.text.sunxi_board_late_init
+                0x00000000000211cc       0x1a
+ .text.sunxi_board_late_init
+                0x00000000000211cc       0x1a libsun8iw20p1_sboot.o
+                0x00000000000211cc                sunxi_board_late_init
+
+.text.set_aldo_analog
+                0x00000000000211e8       0x28
+ .text.set_aldo_analog
+                0x00000000000211e8       0x28 libsun8iw20p1_sboot.o
+                0x00000000000211e8                set_aldo_analog
+
+.text.set_ldoa_analog
+                0x0000000000021210       0x20
+ .text.set_ldoa_analog
+                0x0000000000021210       0x20 libsun8iw20p1_sboot.o
+                0x0000000000021210                set_ldoa_analog
+
+.text.sunxi_board_pll_init
+                0x0000000000021230      0x2f8
+ .text.sunxi_board_pll_init
+                0x0000000000021230      0x2f8 libsun8iw20p1_sboot.o
+                0x0000000000021230                sunxi_board_pll_init
+
+.text.sunxi_board_clock_reset
+                0x0000000000021528       0x2c
+ .text.sunxi_board_clock_reset
+                0x0000000000021528       0x2c libsun8iw20p1_sboot.o
+                0x0000000000021528                sunxi_board_clock_reset
+
+.text.sunxi_clock_init_uart
+                0x0000000000021554       0x30
+ .text.sunxi_clock_init_uart
+                0x0000000000021554       0x30 libsun8iw20p1_sboot.o
+                0x0000000000021554                sunxi_clock_init_uart
+
+.text.strcpy    0x0000000000021584       0x10
+ .text.strcpy   0x0000000000021584       0x10 libsun8iw20p1_sboot.o
+                0x0000000000021584                strcpy
+
+.text.strcat    0x0000000000021594       0x1e
+ .text.strcat   0x0000000000021594       0x1e libsun8iw20p1_sboot.o
+                0x0000000000021594                strcat
+
+.text.strcmp    0x00000000000215b2       0x16
+ .text.strcmp   0x00000000000215b2       0x16 libsun8iw20p1_sboot.o
+                0x00000000000215b2                strcmp
+
+.text.strncmp   0x00000000000215c8       0x22
+ .text.strncmp  0x00000000000215c8       0x22 libsun8iw20p1_sboot.o
+                0x00000000000215c8                strncmp
+
+.text.strlen    0x00000000000215ea       0x10
+ .text.strlen   0x00000000000215ea       0x10 libsun8iw20p1_sboot.o
+                0x00000000000215ea                strlen
+
+.text.memset    0x00000000000215fc        0xc
+ .text.memset   0x00000000000215fc        0xc libsun8iw20p1_sboot.o
+                0x00000000000215fc                memset
+
+.text.memcpy    0x0000000000021608        0xc
+ .text.memcpy   0x0000000000021608        0xc libsun8iw20p1_sboot.o
+                0x0000000000021608                memcpy
+
+.text.memcmp    0x0000000000021614       0x1e
+ .text.memcmp   0x0000000000021614       0x1e libsun8iw20p1_sboot.o
+                0x0000000000021614                memcmp
+
+.text.memchr    0x0000000000021632       0x1c
+ .text.memchr   0x0000000000021632       0x1c libsun8iw20p1_sboot.o
+                0x0000000000021632                memchr
+
+.text.putc_outstr
+                0x000000000002164e        0xa
+ .text.putc_outstr
+                0x000000000002164e        0xa libsun8iw20p1_sboot.o
+
+.text.putc_normal
+                0x0000000000021658        0x6
+ .text.putc_normal
+                0x0000000000021658        0x6 libsun8iw20p1_sboot.o
+
+.text.div_out   0x000000000002165e       0x32
+ .text.div_out  0x000000000002165e       0x32 libsun8iw20p1_sboot.o
+
+.text._vprintf  0x0000000000021690      0x1e4
+ .text._vprintf
+                0x0000000000021690      0x1e4 libsun8iw20p1_sboot.o
+
+.text.sunxi_set_printf_debug_mode
+                0x0000000000021874       0x28
+ .text.sunxi_set_printf_debug_mode
+                0x0000000000021874       0x28 libsun8iw20p1_sboot.o
+                0x0000000000021874                sunxi_set_printf_debug_mode
+
+.text.sunxi_get_debug_mode_for_uboot
+                0x000000000002189c       0x18
+ .text.sunxi_get_debug_mode_for_uboot
+                0x000000000002189c       0x18 libsun8iw20p1_sboot.o
+                0x000000000002189c                sunxi_get_debug_mode_for_uboot
+
+.text.sprintf   0x00000000000218b4       0x2c
+ .text.sprintf  0x00000000000218b4       0x2c libsun8iw20p1_sboot.o
+                0x00000000000218b4                sprintf
+
+.text.printf    0x00000000000218e0       0x54
+ .text.printf   0x00000000000218e0       0x54 libsun8iw20p1_sboot.o
+                0x00000000000218e0                printf
+
+.text.snprintf  0x0000000000021934       0x2c
+ .text.snprintf
+                0x0000000000021934       0x2c libsun8iw20p1_sboot.o
+                0x0000000000021934                snprintf
+
+.text.verify_addsum
+                0x0000000000021960       0x60
+ .text.verify_addsum
+                0x0000000000021960       0x60 libsun8iw20p1_sboot.o
+                0x0000000000021960                verify_addsum
+
+.text.g_mod     0x00000000000219c0       0x22
+ .text.g_mod    0x00000000000219c0       0x22 libsun8iw20p1_sboot.o
+                0x00000000000219c0                g_mod
+
+.text.get_page_buf
+                0x00000000000219e4        0x8
+ .text.get_page_buf
+                0x00000000000219e4        0x8 libsun8iw20p1_sboot.o
+                0x00000000000219e4                get_page_buf
+
+.text.get_uart_input
+                0x00000000000219ec       0x24
+ .text.get_uart_input
+                0x00000000000219ec       0x24 libsun8iw20p1_sboot.o
+                0x00000000000219ec                get_uart_input
+
+.text.set_uboot_func_mask
+                0x0000000000021a10       0x10
+ .text.set_uboot_func_mask
+                0x0000000000021a10       0x10 libsun8iw20p1_sboot.o
+                0x0000000000021a10                set_uboot_func_mask
+
+.text.get_uboot_func_mask
+                0x0000000000021a20        0xc
+ .text.get_uboot_func_mask
+                0x0000000000021a20        0xc libsun8iw20p1_sboot.o
+                0x0000000000021a20                get_uboot_func_mask
+
+.text.sunxi_board_init_early
+                0x0000000000021a2c        0x4
+ .text.sunxi_board_init_early
+                0x0000000000021a2c        0x4 libsun8iw20p1_sboot.o
+                0x0000000000021a2c                sunxi_board_init_early
+
+.text.raise     0x0000000000021a30        0x4
+ .text.raise    0x0000000000021a30        0x4 libsun8iw20p1_sboot.o
+                0x0000000000021a30                raise
+
+.text.malloc_init
+                0x0000000000021a34       0x1c
+ .text.malloc_init
+                0x0000000000021a34       0x1c libsun8iw20p1_sboot.o
+                0x0000000000021a34                malloc_init
+
+.text.malloc    0x0000000000021a50       0x4c
+ .text.malloc   0x0000000000021a50       0x4c libsun8iw20p1_sboot.o
+                0x0000000000021a50                malloc
+
+.text.realloc   0x0000000000021a9c       0x6c
+ .text.realloc  0x0000000000021a9c       0x6c libsun8iw20p1_sboot.o
+                0x0000000000021a9c                realloc
+
+.text.free      0x0000000000021b08       0x20
+ .text.free     0x0000000000021b08       0x20 libsun8iw20p1_sboot.o
+                0x0000000000021b08                free
+
+.text.sunxi_get_iobase
+                0x0000000000021b28        0x2
+ .text.sunxi_get_iobase
+                0x0000000000021b28        0x2 libsun8iw20p1_sboot.o
+                0x0000000000021b28                sunxi_get_iobase
+
+.text.sunxi_get_lw32_addr
+                0x0000000000021b2a        0x2
+ .text.sunxi_get_lw32_addr
+                0x0000000000021b2a        0x2 libsun8iw20p1_sboot.o
+                0x0000000000021b2a                sunxi_get_lw32_addr
+
+.text.ndump     0x0000000000021b2c       0x6c
+ .text.ndump    0x0000000000021b2c       0x6c libsun8iw20p1_sboot.o
+                0x0000000000021b2c                ndump
+
+.text.sunxi_serial_init
+                0x0000000000021b98       0x54
+ .text.sunxi_serial_init
+                0x0000000000021b98       0x54 libsun8iw20p1_sboot.o
+                0x0000000000021b98                sunxi_serial_init
+
+.text.sunxi_serial_putc
+                0x0000000000021bec       0x14
+ .text.sunxi_serial_putc
+                0x0000000000021bec       0x14 libsun8iw20p1_sboot.o
+                0x0000000000021bec                sunxi_serial_putc
+
+.text.sunxi_serial_getc
+                0x0000000000021c00       0x14
+ .text.sunxi_serial_getc
+                0x0000000000021c00       0x14 libsun8iw20p1_sboot.o
+                0x0000000000021c00                sunxi_serial_getc
+
+.text.sunxi_serial_tstc
+                0x0000000000021c14       0x10
+ .text.sunxi_serial_tstc
+                0x0000000000021c14       0x10 libsun8iw20p1_sboot.o
+                0x0000000000021c14                sunxi_serial_tstc
+
+.text.boot_set_gpio
+                0x0000000000021c24      0x274
+ .text.boot_set_gpio
+                0x0000000000021c24      0x274 libsun8iw20p1_sboot.o
+                0x0000000000021c24                boot_set_gpio
+
+.text.rtc_write_data
+                0x0000000000021e98       0x18
+ .text.rtc_write_data
+                0x0000000000021e98       0x18 libsun8iw20p1_sboot.o
+                0x0000000000021e98                rtc_write_data
+
+.text.rtc_read_data
+                0x0000000000021eb0       0x14
+ .text.rtc_read_data
+                0x0000000000021eb0       0x14 libsun8iw20p1_sboot.o
+                0x0000000000021eb0                rtc_read_data
+
+.text.rtc_probe_fel_flag
+                0x0000000000021ec4       0x78
+ .text.rtc_probe_fel_flag
+                0x0000000000021ec4       0x78 libsun8iw20p1_sboot.o
+                0x0000000000021ec4                rtc_probe_fel_flag
+
+.text.rtc_clear_fel_flag
+                0x0000000000021f3c       0x1a
+ .text.rtc_clear_fel_flag
+                0x0000000000021f3c       0x1a libsun8iw20p1_sboot.o
+                0x0000000000021f3c                rtc_clear_fel_flag
+
+.text.rtc_set_hash_entry
+                0x0000000000021f56       0x1c
+ .text.rtc_set_hash_entry
+                0x0000000000021f56       0x1c libsun8iw20p1_sboot.o
+                0x0000000000021f56                rtc_set_hash_entry
+
+.text.i2c_sendbyteaddr
+                0x0000000000021f74       0x38
+ .text.i2c_sendbyteaddr
+                0x0000000000021f74       0x38 libsun8iw20p1_sboot.o
+
+.text.i2c_sendstart
+                0x0000000000021fac       0x40
+ .text.i2c_sendstart
+                0x0000000000021fac       0x40 libsun8iw20p1_sboot.o
+
+.text.i2c_sendslaveaddr
+                0x0000000000021fec       0x4c
+ .text.i2c_sendslaveaddr
+                0x0000000000021fec       0x4c libsun8iw20p1_sboot.o
+
+.text.i2c_stop  0x0000000000022038       0x4c
+ .text.i2c_stop
+                0x0000000000022038       0x4c libsun8iw20p1_sboot.o
+
+.text.i2c_read  0x0000000000022084      0x15c
+ .text.i2c_read
+                0x0000000000022084      0x15c libsun8iw20p1_sboot.o
+                0x0000000000022084                i2c_read
+
+.text.i2c_write
+                0x00000000000221e0       0xb0
+ .text.i2c_write
+                0x00000000000221e0       0xb0 libsun8iw20p1_sboot.o
+                0x00000000000221e0                i2c_write
+
+.text.i2c_set_clock
+                0x0000000000022290       0xdc
+ .text.i2c_set_clock
+                0x0000000000022290       0xdc libsun8iw20p1_sboot.o
+                0x0000000000022290                i2c_set_clock
+
+.text.get_i2c_gpio
+                0x000000000002236c       0x14
+ .text.get_i2c_gpio
+                0x000000000002236c       0x14 libsun8iw20p1_sboot.o
+                0x000000000002236c                get_i2c_gpio
+
+.text.i2c_init  0x0000000000022380       0x98
+ .text.i2c_init
+                0x0000000000022380       0x98 libsun8iw20p1_sboot.o
+                0x0000000000022380                i2c_init
+
+.text.i2c_init_cpus
+                0x0000000000022418       0x3c
+ .text.i2c_init_cpus
+                0x0000000000022418       0x3c libsun8iw20p1_sboot.o
+                0x0000000000022418                i2c_init_cpus
+
+.text.i2c_exit  0x0000000000022454       0xa4
+ .text.i2c_exit
+                0x0000000000022454       0xa4 libsun8iw20p1_sboot.o
+                0x0000000000022454                i2c_exit
+
+.text.pmic_bus_init
+                0x00000000000224f8        0xa
+ .text.pmic_bus_init
+                0x00000000000224f8        0xa libsun8iw20p1_sboot.o
+                0x00000000000224f8                pmic_bus_init
+
+.text.pmic_bus_read
+                0x0000000000022502       0x14
+ .text.pmic_bus_read
+                0x0000000000022502       0x14 libsun8iw20p1_sboot.o
+                0x0000000000022502                pmic_bus_read
+
+.text.pmic_bus_write
+                0x0000000000022516       0x18
+ .text.pmic_bus_write
+                0x0000000000022516       0x18 libsun8iw20p1_sboot.o
+                0x0000000000022516                pmic_bus_write
+
+.text.handler_super_standby
+                0x0000000000022530       0xfe
+ .text.handler_super_standby
+                0x0000000000022530       0xfe libsun8iw20p1_sboot.o
+                0x0000000000022530                handler_super_standby
+
+.text.wdt_stop  0x0000000000022630       0x10
+ .text.wdt_stop
+                0x0000000000022630       0x10 libsun8iw20p1_sboot.o
+                0x0000000000022630                wdt_stop
+
+.text.wdt_start
+                0x0000000000022640       0x2c
+ .text.wdt_start
+                0x0000000000022640       0x2c libsun8iw20p1_sboot.o
+                0x0000000000022640                wdt_start
+
+.text.sunxi_dma_init
+                0x000000000002266c       0xbc
+ .text.sunxi_dma_init
+                0x000000000002266c       0xbc libsun8iw20p1_sboot.o
+                0x000000000002266c                sunxi_dma_init
+
+.text.sunxi_dma_request
+                0x0000000000022728       0x28
+ .text.sunxi_dma_request
+                0x0000000000022728       0x28 libsun8iw20p1_sboot.o
+                0x0000000000022728                sunxi_dma_request
+
+.text.sunxi_dma_setting
+                0x0000000000022750       0x3c
+ .text.sunxi_dma_setting
+                0x0000000000022750       0x3c libsun8iw20p1_sboot.o
+                0x0000000000022750                sunxi_dma_setting
+
+.text.sunxi_dma_start
+                0x000000000002278c       0x30
+ .text.sunxi_dma_start
+                0x000000000002278c       0x30 libsun8iw20p1_sboot.o
+                0x000000000002278c                sunxi_dma_start
+
+.text.sunxi_dma_querystatus
+                0x00000000000227bc       0x1c
+ .text.sunxi_dma_querystatus
+                0x00000000000227bc       0x1c libsun8iw20p1_sboot.o
+                0x00000000000227bc                sunxi_dma_querystatus
+
+.text.sunxi_dma_disable_int
+                0x00000000000227d8       0x70
+ .text.sunxi_dma_disable_int
+                0x00000000000227d8       0x70 libsun8iw20p1_sboot.o
+                0x00000000000227d8                sunxi_dma_disable_int
+
+.text.sunxi_dma_free_int
+                0x0000000000022848       0x40
+ .text.sunxi_dma_free_int
+                0x0000000000022848       0x40 libsun8iw20p1_sboot.o
+                0x0000000000022848                sunxi_dma_free_int
+
+.text.sunxi_dma_exit
+                0x0000000000022888       0x70
+ .text.sunxi_dma_exit
+                0x0000000000022888       0x70 libsun8iw20p1_sboot.o
+                0x0000000000022888                sunxi_dma_exit
+
+.text.sunxi_dma_release
+                0x00000000000228f8       0x1e
+ .text.sunxi_dma_release
+                0x00000000000228f8       0x1e libsun8iw20p1_sboot.o
+                0x00000000000228f8                sunxi_dma_release
+
+.text.set_ddr_voltage
+                0x0000000000022918       0x1c
+ .text.set_ddr_voltage
+                0x0000000000022918       0x1c libsun8iw20p1_sboot.o
+                0x000000000002291c                set_ddr_voltage
+
+.text.get_pmu_exist
+                0x0000000000022934       0x14
+ .text.get_pmu_exist
+                0x0000000000022934       0x14 libsun8iw20p1_sboot.o
+                0x000000000002293c                get_pmu_exist
+
+.text.memcpy_self
+                0x0000000000022948       0x18
+ .text.memcpy_self
+                0x0000000000022948       0x18 libsun8iw20p1_sboot.o
+                0x0000000000022948                memcpy_self
+
+.text.sid_read_ldoB_cal
+                0x0000000000022960       0x38
+ .text.sid_read_ldoB_cal
+                0x0000000000022960       0x38 libsun8iw20p1_sboot.o
+                0x0000000000022960                sid_read_ldoB_cal
+
+.text.dram_vol_set
+                0x0000000000022998       0x3c
+ .text.dram_vol_set
+                0x0000000000022998       0x3c libsun8iw20p1_sboot.o
+                0x0000000000022998                dram_vol_set
+
+.text.dram_enable_all_master
+                0x00000000000229d4       0x1c
+ .text.dram_enable_all_master
+                0x00000000000229d4       0x1c libsun8iw20p1_sboot.o
+                0x00000000000229d4                dram_enable_all_master
+
+.text.dram_disable_all_master
+                0x00000000000229f0       0x1c
+ .text.dram_disable_all_master
+                0x00000000000229f0       0x1c libsun8iw20p1_sboot.o
+                0x00000000000229f0                dram_disable_all_master
+
+.text.eye_delay_compensation
+                0x0000000000022a0c      0x14c
+ .text.eye_delay_compensation
+                0x0000000000022a0c      0x14c libsun8iw20p1_sboot.o
+                0x0000000000022a0c                eye_delay_compensation
+
+.text.auto_cal_timing
+                0x0000000000022b58       0x24
+ .text.auto_cal_timing
+                0x0000000000022b58       0x24 libsun8iw20p1_sboot.o
+                0x0000000000022b58                auto_cal_timing
+
+.text.auto_set_timing_para
+                0x0000000000022b7c      0x788
+ .text.auto_set_timing_para
+                0x0000000000022b7c      0x788 libsun8iw20p1_sboot.o
+                0x0000000000022b7c                auto_set_timing_para
+
+.text.ccm_set_pll_ddr_clk
+                0x0000000000023304       0x7c
+ .text.ccm_set_pll_ddr_clk
+                0x0000000000023304       0x7c libsun8iw20p1_sboot.o
+                0x0000000000023304                ccm_set_pll_ddr_clk
+
+.text.mctl_sys_init
+                0x0000000000023380       0xb4
+ .text.mctl_sys_init
+                0x0000000000023380       0xb4 libsun8iw20p1_sboot.o
+                0x0000000000023380                mctl_sys_init
+
+.text.mctl_com_init
+                0x0000000000023434      0x158
+ .text.mctl_com_init
+                0x0000000000023434      0x158 libsun8iw20p1_sboot.o
+                0x0000000000023434                mctl_com_init
+
+.text.mctl_phy_ac_remapping
+                0x000000000002358c      0x318
+ .text.mctl_phy_ac_remapping
+                0x000000000002358c      0x318 libsun8iw20p1_sboot.o
+                0x000000000002358c                mctl_phy_ac_remapping
+
+.text.mctl_channel_init
+                0x00000000000238a4      0x354
+ .text.mctl_channel_init
+                0x00000000000238a4      0x354 libsun8iw20p1_sboot.o
+                0x00000000000238a4                mctl_channel_init
+
+.text.DRAMC_get_dram_size
+                0x0000000000023bf8       0x54
+ .text.DRAMC_get_dram_size
+                0x0000000000023bf8       0x54 libsun8iw20p1_sboot.o
+                0x0000000000023bf8                DRAMC_get_dram_size
+
+.text.dqs_gate_detect
+                0x0000000000023c4c       0xa4
+ .text.dqs_gate_detect
+                0x0000000000023c4c       0xa4 libsun8iw20p1_sboot.o
+                0x0000000000023c4c                dqs_gate_detect
+
+.text.dramc_simple_wr_test
+                0x0000000000023cf0       0x94
+ .text.dramc_simple_wr_test
+                0x0000000000023cf0       0x94 libsun8iw20p1_sboot.o
+                0x0000000000023cf0                dramc_simple_wr_test
+
+.text.mctl_vrefzq_init
+                0x0000000000023d84       0x30
+ .text.mctl_vrefzq_init
+                0x0000000000023d84       0x30 libsun8iw20p1_sboot.o
+                0x0000000000023d84                mctl_vrefzq_init
+
+.text.mctl_core_init
+                0x0000000000023db4       0x2a
+ .text.mctl_core_init
+                0x0000000000023db4       0x2a libsun8iw20p1_sboot.o
+                0x0000000000023db4                mctl_core_init
+
+.text.auto_scan_dram_size
+                0x0000000000023de0      0x284
+ .text.auto_scan_dram_size
+                0x0000000000023de0      0x284 libsun8iw20p1_sboot.o
+                0x0000000000023de0                auto_scan_dram_size
+
+.text.auto_scan_dram_rank_width
+                0x0000000000024064       0x4c
+ .text.auto_scan_dram_rank_width
+                0x0000000000024064       0x4c libsun8iw20p1_sboot.o
+                0x0000000000024064                auto_scan_dram_rank_width
+
+.text.auto_scan_dram_config
+                0x00000000000240b0       0x4c
+ .text.auto_scan_dram_config
+                0x00000000000240b0       0x4c libsun8iw20p1_sboot.o
+                0x00000000000240b0                auto_scan_dram_config
+
+.text.init_DRAM
+                0x00000000000240fc      0x28c
+ .text.init_DRAM
+                0x00000000000240fc      0x28c libsun8iw20p1_sboot.o
+                0x00000000000240fc                init_DRAM
+
+.text.dumphex32.constprop.5
+                0x0000000000024388       0x48
+ .text.dumphex32.constprop.5
+                0x0000000000024388       0x48 libsun8iw20p1_sboot.o
+
+.text.mmc_send_cmd
+                0x00000000000243d0      0x564
+ .text.mmc_send_cmd
+                0x00000000000243d0      0x564 libsun8iw20p1_sboot.o
+                0x00000000000243d0                mmc_send_cmd
+
+.text.mmc_send_status
+                0x0000000000024934       0x84
+ .text.mmc_send_status
+                0x0000000000024934       0x84 libsun8iw20p1_sboot.o
+                0x0000000000024934                mmc_send_status
+
+.text.mmc_set_blocklen
+                0x00000000000249b8       0x2e
+ .text.mmc_set_blocklen
+                0x00000000000249b8       0x2e libsun8iw20p1_sboot.o
+                0x00000000000249b8                mmc_set_blocklen
+
+.text.find_mmc_device
+                0x00000000000249e8       0x20
+ .text.find_mmc_device
+                0x00000000000249e8       0x20 libsun8iw20p1_sboot.o
+                0x00000000000249e8                find_mmc_device
+
+.text.mmc_read_blocks
+                0x0000000000024a08       0x8c
+ .text.mmc_read_blocks
+                0x0000000000024a08       0x8c libsun8iw20p1_sboot.o
+                0x0000000000024a08                mmc_read_blocks
+
+.text.mmc_bread
+                0x0000000000024a94       0x9c
+ .text.mmc_bread
+                0x0000000000024a94       0x9c libsun8iw20p1_sboot.o
+                0x0000000000024a94                mmc_bread
+
+.text.mmc_go_idle
+                0x0000000000024b30       0x3c
+ .text.mmc_go_idle
+                0x0000000000024b30       0x3c libsun8iw20p1_sboot.o
+                0x0000000000024b30                mmc_go_idle
+
+.text.sd_send_op_cond
+                0x0000000000024b6c       0xfc
+ .text.sd_send_op_cond
+                0x0000000000024b6c       0xfc libsun8iw20p1_sboot.o
+                0x0000000000024b6c                sd_send_op_cond
+
+.text.mmc_send_op_cond
+                0x0000000000024c68       0xf0
+ .text.mmc_send_op_cond
+                0x0000000000024c68       0xf0 libsun8iw20p1_sboot.o
+                0x0000000000024c68                mmc_send_op_cond
+
+.text.mmc_send_ext_csd
+                0x0000000000024d58       0x40
+ .text.mmc_send_ext_csd
+                0x0000000000024d58       0x40 libsun8iw20p1_sboot.o
+                0x0000000000024d58                mmc_send_ext_csd
+
+.text.mmc_update_phase
+                0x0000000000024d98       0x1c
+ .text.mmc_update_phase
+                0x0000000000024d98       0x1c libsun8iw20p1_sboot.o
+                0x0000000000024d98                mmc_update_phase
+
+.text.mmc_switch
+                0x0000000000024db4       0x58
+ .text.mmc_switch
+                0x0000000000024db4       0x58 libsun8iw20p1_sboot.o
+                0x0000000000024db4                mmc_switch
+
+.text.mmc_change_freq.part.2
+                0x0000000000024e0c       0xb0
+ .text.mmc_change_freq.part.2
+                0x0000000000024e0c       0xb0 libsun8iw20p1_sboot.o
+
+.text.mmc_change_freq
+                0x0000000000024ebc       0x20
+ .text.mmc_change_freq
+                0x0000000000024ebc       0x20 libsun8iw20p1_sboot.o
+                0x0000000000024ebc                mmc_change_freq
+
+.text.sd_switch
+                0x0000000000024edc       0x44
+ .text.sd_switch
+                0x0000000000024edc       0x44 libsun8iw20p1_sboot.o
+                0x0000000000024edc                sd_switch
+
+.text.sd_change_freq
+                0x0000000000024f20      0x14c
+ .text.sd_change_freq
+                0x0000000000024f20      0x14c libsun8iw20p1_sboot.o
+                0x0000000000024f20                sd_change_freq
+
+.text.mmc_set_ios
+                0x000000000002506c      0x4e4
+ .text.mmc_set_ios
+                0x000000000002506c      0x4e4 libsun8iw20p1_sboot.o
+                0x000000000002506c                mmc_set_ios
+
+.text.mmc_set_clock
+                0x0000000000025550       0x16
+ .text.mmc_set_clock
+                0x0000000000025550       0x16 libsun8iw20p1_sboot.o
+                0x0000000000025550                mmc_set_clock
+
+.text.mmc_read_info
+                0x0000000000025568       0xe4
+ .text.mmc_read_info
+                0x0000000000025568       0xe4 libsun8iw20p1_sboot.o
+                0x0000000000025568                mmc_read_info
+
+.text.mmc_startup
+                0x000000000002564c      0x5ac
+ .text.mmc_startup
+                0x000000000002564c      0x5ac libsun8iw20p1_sboot.o
+                0x000000000002564c                mmc_startup
+
+.text.mmc_send_if_cond
+                0x0000000000025bf8       0x5c
+ .text.mmc_send_if_cond
+                0x0000000000025bf8       0x5c libsun8iw20p1_sboot.o
+                0x0000000000025bf8                mmc_send_if_cond
+
+.text.mmc_init  0x0000000000025c54      0x194
+ .text.mmc_init
+                0x0000000000025c54      0x194 libsun8iw20p1_sboot.o
+                0x0000000000025c54                mmc_init
+
+.text.mmc_register
+                0x0000000000025de8       0x20
+ .text.mmc_register
+                0x0000000000025de8       0x20 libsun8iw20p1_sboot.o
+                0x0000000000025de8                mmc_register
+
+.text._get_pll_periph0
+                0x0000000000025e08       0x2c
+ .text._get_pll_periph0
+                0x0000000000025e08       0x2c libsun8iw20p1_sboot.o
+
+.text.mmc_core_init
+                0x0000000000025e34       0xe8
+ .text.mmc_core_init
+                0x0000000000025e34       0xe8 libsun8iw20p1_sboot.o
+
+.text.mmc_ddr_mode_onoff.isra.0
+                0x0000000000025f1c       0x2e
+ .text.mmc_ddr_mode_onoff.isra.0
+                0x0000000000025f1c       0x2e libsun8iw20p1_sboot.o
+
+.text.mmc_get_mclk.isra.4
+                0x0000000000025f4c       0x48
+ .text.mmc_get_mclk.isra.4
+                0x0000000000025f4c       0x48 libsun8iw20p1_sboot.o
+
+.text.mmc_update_clk.isra.5
+                0x0000000000025f94       0x68
+ .text.mmc_update_clk.isra.5
+                0x0000000000025f94       0x68 libsun8iw20p1_sboot.o
+
+.text.mmc_clk_io_onoff.isra.8
+                0x0000000000025ffc       0x5c
+ .text.mmc_clk_io_onoff.isra.8
+                0x0000000000025ffc       0x5c libsun8iw20p1_sboot.o
+
+.text.mmc_get_timing_cfg
+                0x0000000000026058      0x1c0
+ .text.mmc_get_timing_cfg
+                0x0000000000026058      0x1c0 libsun8iw20p1_sboot.o
+
+.text.set_mmc_para
+                0x0000000000026218       0x54
+ .text.set_mmc_para
+                0x0000000000026218       0x54 libsun8iw20p1_sboot.o
+                0x0000000000026218                set_mmc_para
+
+.text.mmc_update_host_caps_r
+                0x000000000002626c      0x154
+ .text.mmc_update_host_caps_r
+                0x000000000002626c      0x154 libsun8iw20p1_sboot.o
+                0x000000000002626c                mmc_update_host_caps_r
+
+.text.sunxi_mmc_init
+                0x00000000000263c0      0x190
+ .text.sunxi_mmc_init
+                0x00000000000263c0      0x190 libsun8iw20p1_sboot.o
+                0x00000000000263c0                sunxi_mmc_init
+
+.text.load_and_check_in_one_blk
+                0x0000000000026550       0x54
+ .text.load_and_check_in_one_blk
+                0x0000000000026550       0x54 libsun8iw20p1_sboot.o
+                0x0000000000026550                load_and_check_in_one_blk
+
+.text.load_in_many_blks
+                0x00000000000265a4       0x9c
+ .text.load_in_many_blks
+                0x00000000000265a4       0x9c libsun8iw20p1_sboot.o
+                0x00000000000265a4                load_in_many_blks
+
+.text.NF_open   0x0000000000026640       0x6c
+ .text.NF_open  0x0000000000026640       0x6c libsun8iw20p1_sboot.o
+                0x0000000000026640                NF_open
+
+.text.NF_close  0x00000000000266ac       0x12
+ .text.NF_close
+                0x00000000000266ac       0x12 libsun8iw20p1_sboot.o
+                0x00000000000266ac                NF_close
+
+.text.NF_read   0x00000000000266c0       0xfc
+ .text.NF_read  0x00000000000266c0       0xfc libsun8iw20p1_sboot.o
+                0x00000000000266c0                NF_read
+
+.text.NF_read_status
+                0x00000000000267bc       0x3c
+ .text.NF_read_status
+                0x00000000000267bc       0x3c libsun8iw20p1_sboot.o
+                0x00000000000267bc                NF_read_status
+
+.text.load_uboot_in_one_block_judge
+                0x00000000000267f8       0x3c
+ .text.load_uboot_in_one_block_judge
+                0x00000000000267f8       0x3c libsun8iw20p1_sboot.o
+                0x00000000000267f8                load_uboot_in_one_block_judge
+
+.text.NFB_GetFlashInfo
+                0x0000000000026834       0x2c
+ .text.NFB_GetFlashInfo
+                0x0000000000026834       0x2c libsun8iw20p1_sboot.o
+                0x0000000000026834                NFB_GetFlashInfo
+
+.text.NFB_PhyInit
+                0x0000000000026860       0x44
+ .text.NFB_PhyInit
+                0x0000000000026860       0x44 libsun8iw20p1_sboot.o
+                0x0000000000026860                NFB_PhyInit
+
+.text.NFB_PhyExit
+                0x00000000000268a4        0xa
+ .text.NFB_PhyExit
+                0x00000000000268a4        0xa libsun8iw20p1_sboot.o
+                0x00000000000268a4                NFB_PhyExit
+
+.text.NFB_PhyRead
+                0x00000000000268ae        0x4
+ .text.NFB_PhyRead
+                0x00000000000268ae        0x4 libsun8iw20p1_sboot.o
+                0x00000000000268ae                NFB_PhyRead
+
+.text._Get_PLL_PERI
+                0x00000000000268b4       0x30
+ .text._Get_PLL_PERI
+                0x00000000000268b4       0x30 libsun8iw20p1_sboot.o
+                0x00000000000268b4                _Get_PLL_PERI
+
+.text._change_ndfc_clk_v1
+                0x00000000000268e4      0x1f4
+ .text._change_ndfc_clk_v1
+                0x00000000000268e4      0x1f4 libsun8iw20p1_sboot.o
+                0x00000000000268e4                _change_ndfc_clk_v1
+
+.text._open_ndfc_ahb_gate_and_reset_v1
+                0x0000000000026ad8       0x3c
+ .text._open_ndfc_ahb_gate_and_reset_v1
+                0x0000000000026ad8       0x3c libsun8iw20p1_sboot.o
+                0x0000000000026ad8                _open_ndfc_ahb_gate_and_reset_v1
+
+.text.NAND_ClkRequest
+                0x0000000000026b14       0x44
+ .text.NAND_ClkRequest
+                0x0000000000026b14       0x44 libsun8iw20p1_sboot.o
+                0x0000000000026b14                NAND_ClkRequest
+
+.text.NAND_ClkRelease
+                0x0000000000026b58        0x2
+ .text.NAND_ClkRelease
+                0x0000000000026b58        0x2 libsun8iw20p1_sboot.o
+                0x0000000000026b58                NAND_ClkRelease
+
+.text.NAND_PIORequest
+                0x0000000000026b5c       0x4c
+ .text.NAND_PIORequest
+                0x0000000000026b5c       0x4c libsun8iw20p1_sboot.o
+                0x0000000000026b5c                NAND_PIORequest
+
+.text.NAND_PIORelease
+                0x0000000000026ba8        0x2
+ .text.NAND_PIORelease
+                0x0000000000026ba8        0x2 libsun8iw20p1_sboot.o
+                0x0000000000026ba8                NAND_PIORelease
+
+.text.NAND_WaitDmaFinish
+                0x0000000000026baa        0x4
+ .text.NAND_WaitDmaFinish
+                0x0000000000026baa        0x4 libsun8iw20p1_sboot.o
+                0x0000000000026baa                NAND_WaitDmaFinish
+
+.text.NAND_Malloc
+                0x0000000000026bae        0x6
+ .text.NAND_Malloc
+                0x0000000000026bae        0x6 libsun8iw20p1_sboot.o
+                0x0000000000026bae                NAND_Malloc
+
+.text.NAND_Free
+                0x0000000000026bb4        0x2
+ .text.NAND_Free
+                0x0000000000026bb4        0x2 libsun8iw20p1_sboot.o
+                0x0000000000026bb4                NAND_Free
+
+.text.NAND_IORemap
+                0x0000000000026bb6        0x2
+ .text.NAND_IORemap
+                0x0000000000026bb6        0x2 libsun8iw20p1_sboot.o
+                0x0000000000026bb6                NAND_IORemap
+
+.text._InitNandPhyInfo
+                0x0000000000026bb8       0x80
+ .text._InitNandPhyInfo
+                0x0000000000026bb8       0x80 libsun8iw20p1_sboot.o
+                0x0000000000026bb8                _InitNandPhyInfo
+
+.text._CheckNandID
+                0x0000000000026c38       0x2c
+ .text._CheckNandID
+                0x0000000000026c38       0x2c libsun8iw20p1_sboot.o
+                0x0000000000026c38                _CheckNandID
+
+.text.BOOT_AnalyzeNandSystem
+                0x0000000000026c64       0xd8
+ .text.BOOT_AnalyzeNandSystem
+                0x0000000000026c64       0xd8 libsun8iw20p1_sboot.o
+                0x0000000000026c64                BOOT_AnalyzeNandSystem
+
+.text.NAND_Getlsbpage_type
+                0x0000000000026d3c       0x10
+ .text.NAND_Getlsbpage_type
+                0x0000000000026d3c       0x10 libsun8iw20p1_sboot.o
+                0x0000000000026d3c                NAND_Getlsbpage_type
+
+.text.Nand_Is_lsb_page
+                0x0000000000026d4c       0xd8
+ .text.Nand_Is_lsb_page
+                0x0000000000026d4c       0xd8 libsun8iw20p1_sboot.o
+                0x0000000000026d4c                Nand_Is_lsb_page
+
+.text.NAND_GetLsbblksize
+                0x0000000000026e24       0x38
+ .text.NAND_GetLsbblksize
+                0x0000000000026e24       0x38 libsun8iw20p1_sboot.o
+                0x0000000000026e24                NAND_GetLsbblksize
+
+.text.nfc_repeat_mode_enable
+                0x0000000000026e5c       0x28
+ .text.nfc_repeat_mode_enable
+                0x0000000000026e5c       0x28 libsun8iw20p1_sboot.o
+                0x0000000000026e5c                nfc_repeat_mode_enable
+
+.text.nfc_repeat_mode_disable
+                0x0000000000026e84       0x28
+ .text.nfc_repeat_mode_disable
+                0x0000000000026e84       0x28 libsun8iw20p1_sboot.o
+                0x0000000000026e84                nfc_repeat_mode_disable
+
+.text._wait_cmdfifo_free
+                0x0000000000026eac       0x2c
+ .text._wait_cmdfifo_free
+                0x0000000000026eac       0x2c libsun8iw20p1_sboot.o
+                0x0000000000026eac                _wait_cmdfifo_free
+
+.text._wait_cmd_finish
+                0x0000000000026ed8       0x44
+ .text._wait_cmd_finish
+                0x0000000000026ed8       0x44 libsun8iw20p1_sboot.o
+                0x0000000000026ed8                _wait_cmd_finish
+
+.text._dma_config_start
+                0x0000000000026f1c       0x64
+ .text._dma_config_start
+                0x0000000000026f1c       0x64 libsun8iw20p1_sboot.o
+                0x0000000000026f1c                _dma_config_start
+
+.text._wait_dma_end
+                0x0000000000026f80       0x2c
+ .text._wait_dma_end
+                0x0000000000026f80       0x2c libsun8iw20p1_sboot.o
+                0x0000000000026f80                _wait_dma_end
+
+.text._reset    0x0000000000026fac       0x44
+ .text._reset   0x0000000000026fac       0x44 libsun8iw20p1_sboot.o
+                0x0000000000026fac                _reset
+
+.text._check_ecc
+                0x0000000000026ff0       0xd4
+ .text._check_ecc
+                0x0000000000026ff0       0xd4 libsun8iw20p1_sboot.o
+                0x0000000000026ff0                _check_ecc
+
+.text._disable_ecc
+                0x00000000000270c4       0x20
+ .text._disable_ecc
+                0x00000000000270c4       0x20 libsun8iw20p1_sboot.o
+                0x00000000000270c4                _disable_ecc
+
+.text._enable_ecc
+                0x00000000000270e4       0x38
+ .text._enable_ecc
+                0x00000000000270e4       0x38 libsun8iw20p1_sboot.o
+                0x00000000000270e4                _enable_ecc
+
+.text._set_addr
+                0x000000000002711c       0x48
+ .text._set_addr
+                0x000000000002711c       0x48 libsun8iw20p1_sboot.o
+                0x000000000002711c                _set_addr
+
+.text.ndfc_set_user_data_len
+                0x0000000000027164       0xb4
+ .text.ndfc_set_user_data_len
+                0x0000000000027164       0xb4 libsun8iw20p1_sboot.o
+                0x0000000000027164                ndfc_set_user_data_len
+
+.text._read_in_page_mode
+                0x0000000000027218      0x1e4
+ .text._read_in_page_mode
+                0x0000000000027218      0x1e4 libsun8iw20p1_sboot.o
+                0x0000000000027218                _read_in_page_mode
+
+.text.NFC_Read  0x00000000000273fc       0x28
+ .text.NFC_Read
+                0x00000000000273fc       0x28 libsun8iw20p1_sboot.o
+                0x00000000000273fc                NFC_Read
+
+.text.nfc_set_cmd_register
+                0x0000000000027424       0x78
+ .text.nfc_set_cmd_register
+                0x0000000000027424       0x78 libsun8iw20p1_sboot.o
+                0x0000000000027424                nfc_set_cmd_register
+
+.text.NFC_SetRandomSeed
+                0x000000000002749c       0x24
+ .text.NFC_SetRandomSeed
+                0x000000000002749c       0x24 libsun8iw20p1_sboot.o
+                0x000000000002749c                NFC_SetRandomSeed
+
+.text.NFC_RandomEnable
+                0x00000000000274c0       0x24
+ .text.NFC_RandomEnable
+                0x00000000000274c0       0x24 libsun8iw20p1_sboot.o
+                0x00000000000274c0                NFC_RandomEnable
+
+.text.NFC_RandomDisable
+                0x00000000000274e4       0x24
+ .text.NFC_RandomDisable
+                0x00000000000274e4       0x24 libsun8iw20p1_sboot.o
+                0x00000000000274e4                NFC_RandomDisable
+
+.text.NFC_GetId
+                0x0000000000027508       0x40
+ .text.NFC_GetId
+                0x0000000000027508       0x40 libsun8iw20p1_sboot.o
+                0x0000000000027508                NFC_GetId
+
+.text.NFC_GetFeature
+                0x0000000000027548       0x40
+ .text.NFC_GetFeature
+                0x0000000000027548       0x40 libsun8iw20p1_sboot.o
+                0x0000000000027548                NFC_GetFeature
+
+.text.NFC_SetFeature
+                0x0000000000027588       0xac
+ .text.NFC_SetFeature
+                0x0000000000027588       0xac libsun8iw20p1_sboot.o
+                0x0000000000027588                NFC_SetFeature
+
+.text.NFC_Set_Legacy_Interface
+                0x0000000000027634       0x24
+ .text.NFC_Set_Legacy_Interface
+                0x0000000000027634       0x24 libsun8iw20p1_sboot.o
+                0x0000000000027634                NFC_Set_Legacy_Interface
+
+.text.NFC_Set_Toggle_Interface
+                0x0000000000027658       0x24
+ .text.NFC_Set_Toggle_Interface
+                0x0000000000027658       0x24 libsun8iw20p1_sboot.o
+                0x0000000000027658                NFC_Set_Toggle_Interface
+
+.text.NFC_GetStatus
+                0x000000000002767c       0x34
+ .text.NFC_GetStatus
+                0x000000000002767c       0x34 libsun8iw20p1_sboot.o
+                0x000000000002767c                NFC_GetStatus
+
+.text.NFC_ResetChip
+                0x00000000000276b0       0x16
+ .text.NFC_ResetChip
+                0x00000000000276b0       0x16 libsun8iw20p1_sboot.o
+                0x00000000000276b0                NFC_ResetChip
+
+.text.NFC_SelectChip
+                0x00000000000276c8       0x2c
+ .text.NFC_SelectChip
+                0x00000000000276c8       0x2c libsun8iw20p1_sboot.o
+                0x00000000000276c8                NFC_SelectChip
+
+.text.NFC_SelectRb
+                0x00000000000276f4       0x2c
+ .text.NFC_SelectRb
+                0x00000000000276f4       0x2c libsun8iw20p1_sboot.o
+                0x00000000000276f4                NFC_SelectRb
+
+.text.NFC_DeSelectChip
+                0x0000000000027720        0x4
+ .text.NFC_DeSelectChip
+                0x0000000000027720        0x4 libsun8iw20p1_sboot.o
+                0x0000000000027720                NFC_DeSelectChip
+
+.text.NFC_DeSelectRb
+                0x0000000000027724        0x4
+ .text.NFC_DeSelectRb
+                0x0000000000027724        0x4 libsun8iw20p1_sboot.o
+                0x0000000000027724                NFC_DeSelectRb
+
+.text.NFC_CheckRbReady
+                0x0000000000027728       0x28
+ .text.NFC_CheckRbReady
+                0x0000000000027728       0x28 libsun8iw20p1_sboot.o
+                0x0000000000027728                NFC_CheckRbReady
+
+.text.NFC_ChangMode
+                0x0000000000027750       0xd8
+ .text.NFC_ChangMode
+                0x0000000000027750       0xd8 libsun8iw20p1_sboot.o
+                0x0000000000027750                NFC_ChangMode
+
+.text.NFC_SetEccMode
+                0x0000000000027828       0x28
+ .text.NFC_SetEccMode
+                0x0000000000027828       0x28 libsun8iw20p1_sboot.o
+                0x0000000000027828                NFC_SetEccMode
+
+.text.NFC_Init  0x0000000000027850       0x5c
+ .text.NFC_Init
+                0x0000000000027850       0x5c libsun8iw20p1_sboot.o
+                0x0000000000027850                NFC_Init
+
+.text.NFC_Exit  0x00000000000278ac       0x30
+ .text.NFC_Exit
+                0x00000000000278ac       0x30 libsun8iw20p1_sboot.o
+                0x00000000000278ac                NFC_Exit
+
+.text._vender_get_param
+                0x00000000000278dc       0x74
+ .text._vender_get_param
+                0x00000000000278dc       0x74 libsun8iw20p1_sboot.o
+                0x00000000000278dc                _vender_get_param
+
+.text._vender_set_param
+                0x0000000000027950      0x12c
+ .text._vender_set_param
+                0x0000000000027950      0x12c libsun8iw20p1_sboot.o
+                0x0000000000027950                _vender_set_param
+
+.text._vender_get_param_otp_hynix
+                0x0000000000027a7c      0x260
+ .text._vender_get_param_otp_hynix
+                0x0000000000027a7c      0x260 libsun8iw20p1_sboot.o
+                0x0000000000027a7c                _vender_get_param_otp_hynix
+
+.text._major_check_byte
+                0x0000000000027cdc       0xb4
+ .text._major_check_byte
+                0x0000000000027cdc       0xb4 libsun8iw20p1_sboot.o
+                0x0000000000027cdc                _major_check_byte
+
+.text._get_read_retry_cfg
+                0x0000000000027d90      0x100
+ .text._get_read_retry_cfg
+                0x0000000000027d90      0x100 libsun8iw20p1_sboot.o
+                0x0000000000027d90                _get_read_retry_cfg
+
+.text._read_otp_info_hynix
+                0x0000000000027e90      0x21c
+ .text._read_otp_info_hynix
+                0x0000000000027e90      0x21c libsun8iw20p1_sboot.o
+                0x0000000000027e90                _read_otp_info_hynix
+
+.text._get_rr_value_otp_hynix
+                0x00000000000280ac       0x70
+ .text._get_rr_value_otp_hynix
+                0x00000000000280ac       0x70 libsun8iw20p1_sboot.o
+                0x00000000000280ac                _get_rr_value_otp_hynix
+
+.text.NFC_ReadRetry
+                0x000000000002811c      0x10c
+ .text.NFC_ReadRetry
+                0x000000000002811c      0x10c libsun8iw20p1_sboot.o
+                0x000000000002811c                NFC_ReadRetry
+
+.text.NFC_ReadRetryInit
+                0x0000000000028228      0x1ac
+ .text.NFC_ReadRetryInit
+                0x0000000000028228      0x1ac libsun8iw20p1_sboot.o
+                0x0000000000028228                NFC_ReadRetryInit
+
+.text.NFC_GetOTPValue
+                0x00000000000283d4       0x38
+ .text.NFC_GetOTPValue
+                0x00000000000283d4       0x38 libsun8iw20p1_sboot.o
+                0x00000000000283d4                NFC_GetOTPValue
+
+.text.NFC_GetDefaultParam
+                0x000000000002840c       0xe0
+ .text.NFC_GetDefaultParam
+                0x000000000002840c       0xe0 libsun8iw20p1_sboot.o
+                0x000000000002840c                NFC_GetDefaultParam
+
+.text.NFC_SetDefaultParam
+                0x00000000000284ec       0x94
+ .text.NFC_SetDefaultParam
+                0x00000000000284ec       0x94 libsun8iw20p1_sboot.o
+                0x00000000000284ec                NFC_SetDefaultParam
+
+.text.NFC_ReadRetryExit
+                0x0000000000028580        0x4
+ .text.NFC_ReadRetryExit
+                0x0000000000028580        0x4 libsun8iw20p1_sboot.o
+                0x0000000000028580                NFC_ReadRetryExit
+
+.text._cal_addr_in_chip
+                0x0000000000028584       0x6c
+ .text._cal_addr_in_chip
+                0x0000000000028584       0x6c libsun8iw20p1_sboot.o
+                0x0000000000028584                _cal_addr_in_chip
+
+.text._read_status
+                0x00000000000285f0       0x26
+ .text._read_status
+                0x00000000000285f0       0x26 libsun8iw20p1_sboot.o
+                0x00000000000285f0                _read_status
+
+.text._wait_rb_ready
+                0x0000000000028616       0x1c
+ .text._wait_rb_ready
+                0x0000000000028616       0x1c libsun8iw20p1_sboot.o
+                0x0000000000028616                _wait_rb_ready
+
+.text.PHY_Init  0x0000000000028634       0x2c
+ .text.PHY_Init
+                0x0000000000028634       0x2c libsun8iw20p1_sboot.o
+                0x0000000000028634                PHY_Init
+
+.text.check_nand_special_info
+                0x0000000000028660       0x38
+ .text.check_nand_special_info
+                0x0000000000028660       0x38 libsun8iw20p1_sboot.o
+                0x0000000000028660                check_nand_special_info
+
+.text.PHY_SetDefaultParam
+                0x0000000000028698       0x28
+ .text.PHY_SetDefaultParam
+                0x0000000000028698       0x28 libsun8iw20p1_sboot.o
+                0x0000000000028698                PHY_SetDefaultParam
+
+.text.PHY_ChangeMode
+                0x00000000000286c0       0xa4
+ .text.PHY_ChangeMode
+                0x00000000000286c0       0xa4 libsun8iw20p1_sboot.o
+                0x00000000000286c0                PHY_ChangeMode
+
+.text.PHY_Exit  0x0000000000028764       0x28
+ .text.PHY_Exit
+                0x0000000000028764       0x28 libsun8iw20p1_sboot.o
+                0x0000000000028764                PHY_Exit
+
+.text.PHY_ResetChip
+                0x000000000002878c       0x6c
+ .text.PHY_ResetChip
+                0x000000000002878c       0x6c libsun8iw20p1_sboot.o
+                0x000000000002878c                PHY_ResetChip
+
+.text._read_single_page
+                0x00000000000287f8      0x220
+ .text._read_single_page
+                0x00000000000287f8      0x220 libsun8iw20p1_sboot.o
+                0x00000000000287f8                _read_single_page
+
+.text.PHY_ReadNandId
+                0x0000000000028a18       0x3e
+ .text.PHY_ReadNandId
+                0x0000000000028a18       0x3e libsun8iw20p1_sboot.o
+                0x0000000000028a18                PHY_ReadNandId
+
+.text.PHY_GetFeature
+                0x0000000000028a56       0x3a
+ .text.PHY_GetFeature
+                0x0000000000028a56       0x3a libsun8iw20p1_sboot.o
+                0x0000000000028a56                PHY_GetFeature
+
+.text.PHY_SetFeature
+                0x0000000000028a90       0x3c
+ .text.PHY_SetFeature
+                0x0000000000028a90       0x3c libsun8iw20p1_sboot.o
+                0x0000000000028a90                PHY_SetFeature
+
+.text.Setup_Ddr_Nand_Force_To_Sdr_Para
+                0x0000000000028acc       0x64
+ .text.Setup_Ddr_Nand_Force_To_Sdr_Para
+                0x0000000000028acc       0x64 libsun8iw20p1_sboot.o
+                0x0000000000028acc                Setup_Ddr_Nand_Force_To_Sdr_Para
+
+.text.PHY_SimpleRead
+                0x0000000000028b30        0x6
+ .text.PHY_SimpleRead
+                0x0000000000028b30        0x6 libsun8iw20p1_sboot.o
+                0x0000000000028b30                PHY_SimpleRead
+
+.text.PHY_GetDefaultParam
+                0x0000000000028b38      0x17c
+ .text.PHY_GetDefaultParam
+                0x0000000000028b38      0x17c libsun8iw20p1_sboot.o
+                0x0000000000028b38                PHY_GetDefaultParam
+
+.text.PHY_SynchBank
+                0x0000000000028cb4       0xc0
+ .text.PHY_SynchBank
+                0x0000000000028cb4       0xc0 libsun8iw20p1_sboot.o
+                0x0000000000028cb4                PHY_SynchBank
+
+.text.Wait_Tc_Complete
+                0x0000000000028d74       0x2c
+ .text.Wait_Tc_Complete
+                0x0000000000028d74       0x2c libsun8iw20p1_sboot.o
+                0x0000000000028d74                Wait_Tc_Complete
+
+.text.Spic_init
+                0x0000000000028da0      0x124
+ .text.Spic_init
+                0x0000000000028da0      0x124 libsun8iw20p1_sboot.o
+                0x0000000000028da0                Spic_init
+
+.text.Spic_exit
+                0x0000000000028ec4       0x3c
+ .text.Spic_exit
+                0x0000000000028ec4       0x3c libsun8iw20p1_sboot.o
+                0x0000000000028ec4                Spic_exit
+
+.text.Spic_sel_ss
+                0x0000000000028f00       0x18
+ .text.Spic_sel_ss
+                0x0000000000028f00       0x18 libsun8iw20p1_sboot.o
+                0x0000000000028f00                Spic_sel_ss
+
+.text.Spic_config_dual_mode
+                0x0000000000028f18       0x14
+ .text.Spic_config_dual_mode
+                0x0000000000028f18       0x14 libsun8iw20p1_sboot.o
+                0x0000000000028f18                Spic_config_dual_mode
+
+.text.spic0_dma_start
+                0x0000000000028f2c       0x60
+ .text.spic0_dma_start
+                0x0000000000028f2c       0x60 libsun8iw20p1_sboot.o
+                0x0000000000028f2c                spic0_dma_start
+
+.text.Spic_rw   0x0000000000028f8c      0x124
+ .text.Spic_rw  0x0000000000028f8c      0x124 libsun8iw20p1_sboot.o
+                0x0000000000028f8c                Spic_rw
+
+.text.BOOT_AnalyzeSpiNandSystem
+                0x00000000000290b0       0xf8
+ .text.BOOT_AnalyzeSpiNandSystem
+                0x00000000000290b0       0xf8 libsun8iw20p1_sboot.o
+                0x00000000000290b0                BOOT_AnalyzeSpiNandSystem
+
+.text.SpiNand_GetFlashInfo
+                0x00000000000291a8       0x32
+ .text.SpiNand_GetFlashInfo
+                0x00000000000291a8       0x32 libsun8iw20p1_sboot.o
+                0x00000000000291a8                SpiNand_GetFlashInfo
+
+.text.SpiNand_PhyExit
+                0x00000000000291da        0xc
+ .text.SpiNand_PhyExit
+                0x00000000000291da        0xc libsun8iw20p1_sboot.o
+                0x00000000000291da                SpiNand_PhyExit
+
+.text.SpiNand_PhyInit
+                0x00000000000291e8       0x60
+ .text.SpiNand_PhyInit
+                0x00000000000291e8       0x60 libsun8iw20p1_sboot.o
+                0x00000000000291e8                SpiNand_PhyInit
+
+.text.SpiNand_Check_BadBlock
+                0x0000000000029248       0x48
+ .text.SpiNand_Check_BadBlock
+                0x0000000000029248       0x48 libsun8iw20p1_sboot.o
+                0x0000000000029248                SpiNand_Check_BadBlock
+
+.text.SpiNand_Read
+                0x0000000000029290       0x90
+ .text.SpiNand_Read
+                0x0000000000029290       0x90 libsun8iw20p1_sboot.o
+                0x0000000000029290                SpiNand_Read
+
+.text.Spinand_Load_Boot1_Copy
+                0x0000000000029320       0x6c
+ .text.Spinand_Load_Boot1_Copy
+                0x0000000000029320       0x6c libsun8iw20p1_sboot.o
+                0x0000000000029320                Spinand_Load_Boot1_Copy
+
+.text.spi_nand_getsr
+                0x000000000002938c       0x30
+ .text.spi_nand_getsr
+                0x000000000002938c       0x30 libsun8iw20p1_sboot.o
+                0x000000000002938c                spi_nand_getsr
+
+.text.spi_wait_status
+                0x00000000000293bc       0x40
+ .text.spi_wait_status
+                0x00000000000293bc       0x40 libsun8iw20p1_sboot.o
+                0x00000000000293bc                spi_wait_status
+
+.text.spi_nand_read_status
+                0x00000000000293fc       0x70
+ .text.spi_nand_read_status
+                0x00000000000293fc       0x70 libsun8iw20p1_sboot.o
+                0x00000000000293fc                spi_nand_read_status
+
+.text.spi_nand_setecc
+                0x000000000002946c       0x48
+ .text.spi_nand_setecc
+                0x000000000002946c       0x48 libsun8iw20p1_sboot.o
+                0x000000000002946c                spi_nand_setecc
+
+.text.spi_nand_setblocklock
+                0x00000000000294b4       0x48
+ .text.spi_nand_setblocklock
+                0x00000000000294b4       0x48 libsun8iw20p1_sboot.o
+                0x00000000000294b4                spi_nand_setblocklock
+
+.text.spi_nand_setotp
+                0x00000000000294fc       0x48
+ .text.spi_nand_setotp
+                0x00000000000294fc       0x48 libsun8iw20p1_sboot.o
+                0x00000000000294fc                spi_nand_setotp
+
+.text.spi_nand_getotp
+                0x0000000000029544       0x48
+ .text.spi_nand_getotp
+                0x0000000000029544       0x48 libsun8iw20p1_sboot.o
+                0x0000000000029544                spi_nand_getotp
+
+.text.spi_nand_reset
+                0x000000000002958c       0x44
+ .text.spi_nand_reset
+                0x000000000002958c       0x44 libsun8iw20p1_sboot.o
+                0x000000000002958c                spi_nand_reset
+
+.text.spi_nand_read_x1
+                0x00000000000295d0      0x1f4
+ .text.spi_nand_read_x1
+                0x00000000000295d0      0x1f4 libsun8iw20p1_sboot.o
+                0x00000000000295d0                spi_nand_read_x1
+
+.text.read_single_page
+                0x00000000000297c4       0x5c
+ .text.read_single_page
+                0x00000000000297c4       0x5c libsun8iw20p1_sboot.o
+                0x00000000000297c4                read_single_page
+
+.text.SPINAND_GetIOBaseAddr
+                0x0000000000029820        0x8
+ .text.SPINAND_GetIOBaseAddr
+                0x0000000000029820        0x8 libsun8iw20p1_sboot.o
+                0x0000000000029820                SPINAND_GetIOBaseAddr
+
+.text.SPINAND_ClkRequest
+                0x0000000000029828       0x24
+ .text.SPINAND_ClkRequest
+                0x0000000000029828       0x24 libsun8iw20p1_sboot.o
+                0x0000000000029828                SPINAND_ClkRequest
+
+.text.SPINAND_ClkRelease
+                0x000000000002984c        0x2
+ .text.SPINAND_ClkRelease
+                0x000000000002984c        0x2 libsun8iw20p1_sboot.o
+                0x000000000002984c                SPINAND_ClkRelease
+
+.text.SPINAND_SetClk
+                0x0000000000029850       0x7c
+ .text.SPINAND_SetClk
+                0x0000000000029850       0x7c libsun8iw20p1_sboot.o
+                0x0000000000029850                SPINAND_SetClk
+
+.text.SPINAND_PIORequest
+                0x00000000000298cc       0x3c
+ .text.SPINAND_PIORequest
+                0x00000000000298cc       0x3c libsun8iw20p1_sboot.o
+                0x00000000000298cc                SPINAND_PIORequest
+
+.text.SPINAND_PIORelease
+                0x0000000000029908        0x2
+ .text.SPINAND_PIORelease
+                0x0000000000029908        0x2 libsun8iw20p1_sboot.o
+                0x0000000000029908                SPINAND_PIORelease
+
+.text.set_sys_voltage
+                0x000000000002990c       0x18
+ .text.set_sys_voltage
+                0x000000000002990c       0x18 libsun8iw20p1_sboot.o
+                0x000000000002990c                set_sys_voltage
+
+.text.set_pll_voltage
+                0x0000000000029924       0x18
+ .text.set_pll_voltage
+                0x0000000000029924       0x18 libsun8iw20p1_sboot.o
+                0x0000000000029924                set_pll_voltage
+
+.text.axp_init  0x000000000002993c       0x1c
+ .text.axp_init
+                0x000000000002993c       0x1c libsun8iw20p1_sboot.o
+                0x000000000002993c                axp_init
+
+.text.get_ctrl_info_from_tbl
+                0x0000000000029958       0x38
+ .text.get_ctrl_info_from_tbl
+                0x0000000000029958       0x38 libsun8iw20p1_sboot.o
+
+.text.pmu_set_vol
+                0x0000000000029990      0x11e
+ .text.pmu_set_vol
+                0x0000000000029990      0x11e libsun8iw20p1_sboot.o
+
+.text.axp1530_set_ddr_voltage
+                0x0000000000029ab0       0xd8
+ .text.axp1530_set_ddr_voltage
+                0x0000000000029ab0       0xd8 libsun8iw20p1_sboot.o
+                0x0000000000029ab0                axp1530_set_ddr_voltage
+
+.text.axp1530_set_pll_voltage
+                0x0000000000029b88       0x10
+ .text.axp1530_set_pll_voltage
+                0x0000000000029b88       0x10 libsun8iw20p1_sboot.o
+                0x0000000000029b88                axp1530_set_pll_voltage
+
+.text.axp1530_set_sys_voltage
+                0x0000000000029b98       0x10
+ .text.axp1530_set_sys_voltage
+                0x0000000000029b98       0x10 libsun8iw20p1_sboot.o
+                0x0000000000029b98                axp1530_set_sys_voltage
+
+.text.axp1530_axp_init
+                0x0000000000029ba8       0xac
+ .text.axp1530_axp_init
+                0x0000000000029ba8       0xac libsun8iw20p1_sboot.o
+                0x0000000000029ba8                axp1530_axp_init
+
+.text.__aw_endian4
+                0x0000000000029c54        0x4
+ .text.__aw_endian4
+                0x0000000000029c54        0x4 libsun8iw20p1_sboot.o
+
+.text.__rsa_padding
+                0x0000000000029c58       0x2a
+ .text.__rsa_padding
+                0x0000000000029c58       0x2a libsun8iw20p1_sboot.o
+
+.text.sunxi_ce_open
+                0x0000000000029c84       0x34
+ .text.sunxi_ce_open
+                0x0000000000029c84       0x34 libsun8iw20p1_sboot.o
+                0x0000000000029c84                sunxi_ce_open
+
+.text.ss_get_ver
+                0x0000000000029cb8       0x10
+ .text.ss_get_ver
+                0x0000000000029cb8       0x10 libsun8iw20p1_sboot.o
+                0x0000000000029cb8                ss_get_ver
+
+.text.ss_set_drq
+                0x0000000000029cc8        0xc
+ .text.ss_set_drq
+                0x0000000000029cc8        0xc libsun8iw20p1_sboot.o
+                0x0000000000029cc8                ss_set_drq
+
+.text.ss_ctrl_start
+                0x0000000000029cd4       0x20
+ .text.ss_ctrl_start
+                0x0000000000029cd4       0x20 libsun8iw20p1_sboot.o
+                0x0000000000029cd4                ss_ctrl_start
+
+.text.ss_ctrl_stop
+                0x0000000000029cf4        0xc
+ .text.ss_ctrl_stop
+                0x0000000000029cf4        0xc libsun8iw20p1_sboot.o
+                0x0000000000029cf4                ss_ctrl_stop
+
+.text.ss_wait_finish
+                0x0000000000029d00       0x24
+ .text.ss_wait_finish
+                0x0000000000029d00       0x24 libsun8iw20p1_sboot.o
+                0x0000000000029d00                ss_wait_finish
+
+.text.ss_pending_clear
+                0x0000000000029d24       0x20
+ .text.ss_pending_clear
+                0x0000000000029d24       0x20 libsun8iw20p1_sboot.o
+                0x0000000000029d24                ss_pending_clear
+
+.text.ss_irq_enable
+                0x0000000000029d44       0x14
+ .text.ss_irq_enable
+                0x0000000000029d44       0x14 libsun8iw20p1_sboot.o
+                0x0000000000029d44                ss_irq_enable
+
+.text.ss_irq_disable
+                0x0000000000029d58       0x18
+ .text.ss_irq_disable
+                0x0000000000029d58       0x18 libsun8iw20p1_sboot.o
+                0x0000000000029d58                ss_irq_disable
+
+.text.ss_check_err
+                0x0000000000029d70        0xc
+ .text.ss_check_err
+                0x0000000000029d70        0xc libsun8iw20p1_sboot.o
+                0x0000000000029d70                ss_check_err
+
+.text.sunxi_sha_calc
+                0x0000000000029d7c      0x204
+ .text.sunxi_sha_calc
+                0x0000000000029d7c      0x204 libsun8iw20p1_sboot.o
+                0x0000000000029d7c                sunxi_sha_calc
+
+.text.sunxi_rsa_calc
+                0x0000000000029f80      0x170
+ .text.sunxi_rsa_calc
+                0x0000000000029f80      0x170 libsun8iw20p1_sboot.o
+                0x0000000000029f80                sunxi_rsa_calc
+
+.text.sunxi_trng_gen
+                0x000000000002a0f0       0xe0
+ .text.sunxi_trng_gen
+                0x000000000002a0f0       0xe0 libsun8iw20p1_sboot.o
+                0x000000000002a0f0                sunxi_trng_gen
+
+.text.sunxi_smc_config
+                0x000000000002a1d0       0xa8
+ .text.sunxi_smc_config
+                0x000000000002a1d0       0xa8 libsun8iw20p1_sboot.o
+                0x000000000002a1d0                sunxi_smc_config
+
+.text.sunxi_smc_resume
+                0x000000000002a278       0x2e
+ .text.sunxi_smc_resume
+                0x000000000002a278       0x2e libsun8iw20p1_sboot.o
+                0x000000000002a278                sunxi_smc_resume
+
+.text.sunxi_drm_config
+                0x000000000002a2a8       0x38
+ .text.sunxi_drm_config
+                0x000000000002a2a8       0x38 libsun8iw20p1_sboot.o
+                0x000000000002a2a8                sunxi_drm_config
+
+.text.sid_read_work_status
+                0x000000000002a2e0       0x10
+ .text.sid_read_work_status
+                0x000000000002a2e0       0x10 libsun8iw20p1_sboot.o
+                0x000000000002a2e0                sid_read_work_status
+
+.text.sid_sram_read
+                0x000000000002a2f0        0xc
+ .text.sid_sram_read
+                0x000000000002a2f0        0xc libsun8iw20p1_sboot.o
+                0x000000000002a2f0                sid_sram_read
+
+.text.sid_read_key
+                0x000000000002a2fc       0x50
+ .text.sid_read_key
+                0x000000000002a2fc       0x50 libsun8iw20p1_sboot.o
+                0x000000000002a2fc                sid_read_key
+
+.text.sid_program_key
+                0x000000000002a34c       0x68
+ .text.sid_program_key
+                0x000000000002a34c       0x68 libsun8iw20p1_sboot.o
+                0x000000000002a34c                sid_program_key
+
+.text.sid_read_rotpk
+                0x000000000002a3b4       0x18
+ .text.sid_read_rotpk
+                0x000000000002a3b4       0x18 libsun8iw20p1_sboot.o
+                0x000000000002a3b4                sid_read_rotpk
+
+.text.sid_disable_jtag
+                0x000000000002a3cc       0x10
+ .text.sid_disable_jtag
+                0x000000000002a3cc       0x10 libsun8iw20p1_sboot.o
+                0x000000000002a3cc                sid_disable_jtag
+
+.text.OPENSSL_cleanse
+                0x000000000002a3dc       0x34
+ .text.OPENSSL_cleanse
+                0x000000000002a3dc       0x34 libsun8iw20p1_sboot.o
+                0x000000000002a3dc                OPENSSL_cleanse
+
+.text.CRYPTO_malloc
+                0x000000000002a410        0xc
+ .text.CRYPTO_malloc
+                0x000000000002a410        0xc libsun8iw20p1_sboot.o
+                0x000000000002a410                CRYPTO_malloc
+
+.text.CRYPTO_realloc
+                0x000000000002a41c       0x18
+ .text.CRYPTO_realloc
+                0x000000000002a41c       0x18 libsun8iw20p1_sboot.o
+                0x000000000002a41c                CRYPTO_realloc
+
+.text.CRYPTO_realloc_clean
+                0x000000000002a434       0x46
+ .text.CRYPTO_realloc_clean
+                0x000000000002a434       0x46 libsun8iw20p1_sboot.o
+                0x000000000002a434                CRYPTO_realloc_clean
+
+.text.CRYPTO_free
+                0x000000000002a47a        0x4
+ .text.CRYPTO_free
+                0x000000000002a47a        0x4 libsun8iw20p1_sboot.o
+                0x000000000002a47a                CRYPTO_free
+
+.text.reset_CRYPTO_reset
+                0x000000000002a480        0xc
+ .text.reset_CRYPTO_reset
+                0x000000000002a480        0xc libsun8iw20p1_sboot.o
+                0x000000000002a480                reset_CRYPTO_reset
+
+.text.ERR_put_error
+                0x000000000002a48c        0x2
+ .text.ERR_put_error
+                0x000000000002a48c        0x2 libsun8iw20p1_sboot.o
+                0x000000000002a48c                ERR_put_error
+
+.text.obj_cmp   0x000000000002a48e       0x16
+ .text.obj_cmp  0x000000000002a48e       0x16 libsun8iw20p1_sboot.o
+
+.text.reset_OBJ_nid2ln_reset
+                0x000000000002a4a4        0xc
+ .text.reset_OBJ_nid2ln_reset
+                0x000000000002a4a4        0xc libsun8iw20p1_sboot.o
+                0x000000000002a4a4                reset_OBJ_nid2ln_reset
+
+.text.OBJ_bsearch_ex
+                0x000000000002a4b0       0xaa
+ .text.OBJ_bsearch_ex
+                0x000000000002a4b0       0xaa libsun8iw20p1_sboot.o
+                0x000000000002a4b0                OBJ_bsearch_ex
+
+.text.OBJ_bsearch
+                0x000000000002a55a       0x12
+ .text.OBJ_bsearch
+                0x000000000002a55a       0x12 libsun8iw20p1_sboot.o
+                0x000000000002a55a                OBJ_bsearch
+
+.text.OBJ_obj2nid
+                0x000000000002a56c       0x54
+ .text.OBJ_obj2nid
+                0x000000000002a56c       0x54 libsun8iw20p1_sboot.o
+                0x000000000002a56c                OBJ_obj2nid
+
+.text.OBJ_nid2obj
+                0x000000000002a5c0       0x50
+ .text.OBJ_nid2obj
+                0x000000000002a5c0       0x50 libsun8iw20p1_sboot.o
+                0x000000000002a5c0                OBJ_nid2obj
+
+.text.OBJ_obj2name
+                0x000000000002a610       0x24
+ .text.OBJ_obj2name
+                0x000000000002a610       0x24 libsun8iw20p1_sboot.o
+                0x000000000002a610                OBJ_obj2name
+
+.text.ASN1_STRING_mem
+                0x000000000002a634       0x1e
+ .text.ASN1_STRING_mem
+                0x000000000002a634       0x1e libsun8iw20p1_sboot.o
+                0x000000000002a634                ASN1_STRING_mem
+
+.text.c2i_ASN1_INTEGER
+                0x000000000002a654      0x10c
+ .text.c2i_ASN1_INTEGER
+                0x000000000002a654      0x10c libsun8iw20p1_sboot.o
+                0x000000000002a654                c2i_ASN1_INTEGER
+
+.text.c2i_ASN1_BIT_STRING
+                0x000000000002a760       0xd0
+ .text.c2i_ASN1_BIT_STRING
+                0x000000000002a760       0xd0 libsun8iw20p1_sboot.o
+                0x000000000002a760                c2i_ASN1_BIT_STRING
+
+.text.ASN1_OBJECT_new
+                0x000000000002a830       0x40
+ .text.ASN1_OBJECT_new
+                0x000000000002a830       0x40 libsun8iw20p1_sboot.o
+                0x000000000002a830                ASN1_OBJECT_new
+
+.text.ASN1_OBJECT_free
+                0x000000000002a870       0x48
+ .text.ASN1_OBJECT_free
+                0x000000000002a870       0x48 libsun8iw20p1_sboot.o
+                0x000000000002a870                ASN1_OBJECT_free
+
+.text.c2i_ASN1_OBJECT
+                0x000000000002a8b8       0xd4
+ .text.c2i_ASN1_OBJECT
+                0x000000000002a8b8       0xd4 libsun8iw20p1_sboot.o
+                0x000000000002a8b8                c2i_ASN1_OBJECT
+
+.text.asn1_get_enc_ptr.isra.0
+                0x000000000002a98c       0x44
+ .text.asn1_get_enc_ptr.isra.0
+                0x000000000002a98c       0x44 libsun8iw20p1_sboot.o
+
+.text.asn1_get_field_ptr
+                0x000000000002a9d0        0xe
+ .text.asn1_get_field_ptr
+                0x000000000002a9d0        0xe libsun8iw20p1_sboot.o
+                0x000000000002a9d0                asn1_get_field_ptr
+
+.text.asn1_enc_save
+                0x000000000002a9e0       0x40
+ .text.asn1_enc_save
+                0x000000000002a9e0       0x40 libsun8iw20p1_sboot.o
+                0x000000000002a9e0                asn1_enc_save
+
+.text.asn1_do_adb
+                0x000000000002aa20       0x70
+ .text.asn1_do_adb
+                0x000000000002aa20       0x70 libsun8iw20p1_sboot.o
+                0x000000000002aa20                asn1_do_adb
+
+.text.asn1_enc_init
+                0x000000000002aa90       0x16
+ .text.asn1_enc_init
+                0x000000000002aa90       0x16 libsun8iw20p1_sboot.o
+                0x000000000002aa90                asn1_enc_init
+
+.text.ASN1_primitive_new
+                0x000000000002aaa8       0x80
+ .text.ASN1_primitive_new
+                0x000000000002aaa8       0x80 libsun8iw20p1_sboot.o
+                0x000000000002aaa8                ASN1_primitive_new
+
+.text.asn1_primitive_clear
+                0x000000000002ab28       0x2c
+ .text.asn1_primitive_clear
+                0x000000000002ab28       0x2c libsun8iw20p1_sboot.o
+                0x000000000002ab28                asn1_primitive_clear
+
+.text.asn1_template_clear
+                0x000000000002ab54       0x68
+ .text.asn1_template_clear
+                0x000000000002ab54       0x68 libsun8iw20p1_sboot.o
+
+.text.ASN1_template_new
+                0x000000000002abbc       0x68
+ .text.ASN1_template_new
+                0x000000000002abbc       0x68 libsun8iw20p1_sboot.o
+                0x000000000002abbc                ASN1_template_new
+
+.text.asn1_item_ex_combine_new
+                0x000000000002ac24      0x130
+ .text.asn1_item_ex_combine_new
+                0x000000000002ac24      0x130 libsun8iw20p1_sboot.o
+
+.text.ASN1_item_ex_new
+                0x000000000002ad54        0x6
+ .text.ASN1_item_ex_new
+                0x000000000002ad54        0x6 libsun8iw20p1_sboot.o
+                0x000000000002ad54                ASN1_item_ex_new
+
+.text.ASN1_item_new
+                0x000000000002ad5a       0x1e
+ .text.ASN1_item_new
+                0x000000000002ad5a       0x1e libsun8iw20p1_sboot.o
+                0x000000000002ad5a                ASN1_item_new
+
+.text.asn1_enc_free
+                0x000000000002ad78       0x20
+ .text.asn1_enc_free
+                0x000000000002ad78       0x20 libsun8iw20p1_sboot.o
+                0x000000000002ad78                asn1_enc_free
+
+.text.asn1_enc_restore
+                0x000000000002ad98       0x3a
+ .text.asn1_enc_restore
+                0x000000000002ad98       0x3a libsun8iw20p1_sboot.o
+                0x000000000002ad98                asn1_enc_restore
+
+.text.ASN1_primitive_free.part.0
+                0x000000000002add4       0xa4
+ .text.ASN1_primitive_free.part.0
+                0x000000000002add4       0xa4 libsun8iw20p1_sboot.o
+
+.text.ASN1_TYPE_set
+                0x000000000002ae78       0x1e
+ .text.ASN1_TYPE_set
+                0x000000000002ae78       0x1e libsun8iw20p1_sboot.o
+                0x000000000002ae78                ASN1_TYPE_set
+
+.text.ASN1_primitive_free
+                0x000000000002ae96       0x1e
+ .text.ASN1_primitive_free
+                0x000000000002ae96       0x1e libsun8iw20p1_sboot.o
+                0x000000000002ae96                ASN1_primitive_free
+
+.text.asn1_item_combine_free
+                0x000000000002aeb4      0x150
+ .text.asn1_item_combine_free
+                0x000000000002aeb4      0x150 libsun8iw20p1_sboot.o
+                0x000000000002aeb4                asn1_item_combine_free
+
+.text.ASN1_item_free
+                0x000000000002b004       0x16
+ .text.ASN1_item_free
+                0x000000000002b004       0x16 libsun8iw20p1_sboot.o
+                0x000000000002b004                ASN1_item_free
+
+.text.ASN1_put_object
+                0x000000000002b01a       0xa4
+ .text.ASN1_put_object
+                0x000000000002b01a       0xa4 libsun8iw20p1_sboot.o
+                0x000000000002b01a                ASN1_put_object
+
+.text.ASN1_object_size
+                0x000000000002b0be       0x2a
+ .text.ASN1_object_size
+                0x000000000002b0be       0x2a libsun8iw20p1_sboot.o
+                0x000000000002b0be                ASN1_object_size
+
+.text.ASN1_get_object
+                0x000000000002b0e8       0xf4
+ .text.ASN1_get_object
+                0x000000000002b0e8       0xf4 libsun8iw20p1_sboot.o
+                0x000000000002b0e8                ASN1_get_object
+
+.text.ASN1_STRING_type_new
+                0x000000000002b1dc       0x38
+ .text.ASN1_STRING_type_new
+                0x000000000002b1dc       0x38 libsun8iw20p1_sboot.o
+                0x000000000002b1dc                ASN1_STRING_type_new
+
+.text.ASN1_STRING_set
+                0x000000000002b214       0x7c
+ .text.ASN1_STRING_set
+                0x000000000002b214       0x7c libsun8iw20p1_sboot.o
+                0x000000000002b214                ASN1_STRING_set
+
+.text.ASN1_STRING_free
+                0x000000000002b290       0x1a
+ .text.ASN1_STRING_free
+                0x000000000002b290       0x1a libsun8iw20p1_sboot.o
+                0x000000000002b290                ASN1_STRING_free
+
+.text.d2i_PublicKey
+                0x000000000002b2ac       0x88
+ .text.d2i_PublicKey
+                0x000000000002b2ac       0x88 libsun8iw20p1_sboot.o
+                0x000000000002b2ac                d2i_PublicKey
+
+.text.asn1_check_tlen
+                0x000000000002b334      0x148
+ .text.asn1_check_tlen
+                0x000000000002b334      0x148 libsun8iw20p1_sboot.o
+
+.text.asn1_check_eoc
+                0x000000000002b47c       0x1a
+ .text.asn1_check_eoc
+                0x000000000002b47c       0x1a libsun8iw20p1_sboot.o
+
+.text.ASN1_INTEGER_it
+                0x000000000002b498        0x8
+ .text.ASN1_INTEGER_it
+                0x000000000002b498        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b498                ASN1_INTEGER_it
+
+.text.ASN1_OBJECT_it
+                0x000000000002b4a0        0x8
+ .text.ASN1_OBJECT_it
+                0x000000000002b4a0        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b4a0                ASN1_OBJECT_it
+
+.text.ASN1_OCTET_STRING_it
+                0x000000000002b4a8        0x8
+ .text.ASN1_OCTET_STRING_it
+                0x000000000002b4a8        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b4a8                ASN1_OCTET_STRING_it
+
+.text.ASN1_ANY_it
+                0x000000000002b4b0        0x8
+ .text.ASN1_ANY_it
+                0x000000000002b4b0        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b4b0                ASN1_ANY_it
+
+.text.ASN1_BIT_STRING_it
+                0x000000000002b4b8        0x8
+ .text.ASN1_BIT_STRING_it
+                0x000000000002b4b8        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b4b8                ASN1_BIT_STRING_it
+
+.text.ASN1_BOOLEAN_it
+                0x000000000002b4c0        0x8
+ .text.ASN1_BOOLEAN_it
+                0x000000000002b4c0        0x8 libsun8iw20p1_sboot.o
+                0x000000000002b4c0                ASN1_BOOLEAN_it
+
+.text.ASN1_TYPE_new
+                0x000000000002b4c8        0xc
+ .text.ASN1_TYPE_new
+                0x000000000002b4c8        0xc libsun8iw20p1_sboot.o
+                0x000000000002b4c8                ASN1_TYPE_new
+
+.text.ASN1_TYPE_free
+                0x000000000002b4d4        0xc
+ .text.ASN1_TYPE_free
+                0x000000000002b4d4        0xc libsun8iw20p1_sboot.o
+                0x000000000002b4d4                ASN1_TYPE_free
+
+.text.asn1_ex_c2i
+                0x000000000002b4e0      0x1b8
+ .text.asn1_ex_c2i
+                0x000000000002b4e0      0x1b8 libsun8iw20p1_sboot.o
+                0x000000000002b4e0                asn1_ex_c2i
+
+.text.ASN1_template_free
+                0x000000000002b698       0x5a
+ .text.ASN1_template_free
+                0x000000000002b698       0x5a libsun8iw20p1_sboot.o
+                0x000000000002b698                ASN1_template_free
+
+.text.asn1_template_ex_d2i
+                0x000000000002b6f4      0x10c
+ .text.asn1_template_ex_d2i
+                0x000000000002b6f4      0x10c libsun8iw20p1_sboot.o
+
+.text.ASN1_item_ex_d2i
+                0x000000000002b800      0x4fc
+ .text.ASN1_item_ex_d2i
+                0x000000000002b800      0x4fc libsun8iw20p1_sboot.o
+                0x000000000002b800                ASN1_item_ex_d2i
+
+.text.asn1_template_noexp_d2i
+                0x000000000002bcfc      0x1c8
+ .text.asn1_template_noexp_d2i
+                0x000000000002bcfc      0x1c8 libsun8iw20p1_sboot.o
+
+.text.ASN1_item_d2i
+                0x000000000002bec4       0x34
+ .text.ASN1_item_d2i
+                0x000000000002bec4       0x34 libsun8iw20p1_sboot.o
+                0x000000000002bec4                ASN1_item_d2i
+
+.text.reset_D2I_reset
+                0x000000000002bef8        0xc
+ .text.reset_D2I_reset
+                0x000000000002bef8        0xc libsun8iw20p1_sboot.o
+                0x000000000002bef8                reset_D2I_reset
+
+.text.EVP_PKEY_type
+                0x000000000002bf04       0x36
+ .text.EVP_PKEY_type
+                0x000000000002bf04       0x36 libsun8iw20p1_sboot.o
+                0x000000000002bf04                EVP_PKEY_type
+
+.text.EVP_PKEY_new
+                0x000000000002bf3c       0x24
+ .text.EVP_PKEY_new
+                0x000000000002bf3c       0x24 libsun8iw20p1_sboot.o
+                0x000000000002bf3c                EVP_PKEY_new
+
+.text.EVP_PKEY_free
+                0x000000000002bf60        0xa
+ .text.EVP_PKEY_free
+                0x000000000002bf60        0xa libsun8iw20p1_sboot.o
+                0x000000000002bf60                EVP_PKEY_free
+
+.text.X509_PUBKEY_get
+                0x000000000002bf6a       0x62
+ .text.X509_PUBKEY_get
+                0x000000000002bf6a       0x62 libsun8iw20p1_sboot.o
+                0x000000000002bf6a                X509_PUBKEY_get
+
+.text.X509_get_pubkey
+                0x000000000002bfcc       0x10
+ .text.X509_get_pubkey
+                0x000000000002bfcc       0x10 libsun8iw20p1_sboot.o
+                0x000000000002bfcc                X509_get_pubkey
+
+.text.i2d_PublicKey
+                0x000000000002bfdc       0x34
+ .text.i2d_PublicKey
+                0x000000000002bfdc       0x34 libsun8iw20p1_sboot.o
+                0x000000000002bfdc                i2d_PublicKey
+
+.text.pubkey_cb
+                0x000000000002c010       0x12
+ .text.pubkey_cb
+                0x000000000002c010       0x12 libsun8iw20p1_sboot.o
+
+.text.X509_PUBKEY_it
+                0x000000000002c024        0x8
+ .text.X509_PUBKEY_it
+                0x000000000002c024        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c024                X509_PUBKEY_it
+
+.text.bn_free   0x000000000002c02c        0x2
+ .text.bn_free  0x000000000002c02c        0x2 libsun8iw20p1_sboot.o
+
+.text.bn_i2c    0x000000000002c02e       0x4e
+ .text.bn_i2c   0x000000000002c02e       0x4e libsun8iw20p1_sboot.o
+
+.text.bn_new    0x000000000002c07c       0x12
+ .text.bn_new   0x000000000002c07c       0x12 libsun8iw20p1_sboot.o
+
+.text.bn_c2i    0x000000000002c08e       0x24
+ .text.bn_c2i   0x000000000002c08e       0x24 libsun8iw20p1_sboot.o
+
+.text.BIGNUM_it
+                0x000000000002c0b4        0x8
+ .text.BIGNUM_it
+                0x000000000002c0b4        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c0b4                BIGNUM_it
+
+.text.X509_CINF_it
+                0x000000000002c0bc        0x8
+ .text.X509_CINF_it
+                0x000000000002c0bc        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c0bc                X509_CINF_it
+
+.text.x509_cb   0x000000000002c0c4       0x3c
+ .text.x509_cb  0x000000000002c0c4       0x3c libsun8iw20p1_sboot.o
+
+.text.d2i_X509  0x000000000002c100        0xc
+ .text.d2i_X509
+                0x000000000002c100        0xc libsun8iw20p1_sboot.o
+                0x000000000002c100                d2i_X509
+
+.text.X509_free
+                0x000000000002c10c        0xc
+ .text.X509_free
+                0x000000000002c10c        0xc libsun8iw20p1_sboot.o
+                0x000000000002c10c                X509_free
+
+.text.rsa_cb    0x000000000002c118       0x24
+ .text.rsa_cb   0x000000000002c118       0x24 libsun8iw20p1_sboot.o
+
+.text.d2i_RSAPublicKey
+                0x000000000002c13c        0xc
+ .text.d2i_RSAPublicKey
+                0x000000000002c13c        0xc libsun8iw20p1_sboot.o
+                0x000000000002c13c                d2i_RSAPublicKey
+
+.text.i2d_RSAPublicKey
+                0x000000000002c148        0xc
+ .text.i2d_RSAPublicKey
+                0x000000000002c148        0xc libsun8iw20p1_sboot.o
+                0x000000000002c148                i2d_RSAPublicKey
+
+.text.asn1_ex_i2c
+                0x000000000002c154       0xe0
+ .text.asn1_ex_i2c
+                0x000000000002c154       0xe0 libsun8iw20p1_sboot.o
+                0x000000000002c154                asn1_ex_i2c
+
+.text.asn1_i2d_ex_primitive
+                0x000000000002c234       0x9e
+ .text.asn1_i2d_ex_primitive
+                0x000000000002c234       0x9e libsun8iw20p1_sboot.o
+
+.text.ASN1_item_ex_i2d
+                0x000000000002c2d4      0x22c
+ .text.ASN1_item_ex_i2d
+                0x000000000002c2d4      0x22c libsun8iw20p1_sboot.o
+                0x000000000002c2d4                ASN1_item_ex_i2d
+
+.text.asn1_template_ex_i2d
+                0x000000000002c500      0x1a8
+ .text.asn1_template_ex_i2d
+                0x000000000002c500      0x1a8 libsun8iw20p1_sboot.o
+
+.text.ASN1_item_i2d
+                0x000000000002c6a8       0x1a
+ .text.ASN1_item_i2d
+                0x000000000002c6a8       0x1a libsun8iw20p1_sboot.o
+                0x000000000002c6a8                ASN1_item_i2d
+
+.text.sk_new    0x000000000002c6c4       0x48
+ .text.sk_new   0x000000000002c6c4       0x48 libsun8iw20p1_sboot.o
+                0x000000000002c6c4                sk_new
+
+.text.sk_new_null
+                0x000000000002c70c        0x6
+ .text.sk_new_null
+                0x000000000002c70c        0x6 libsun8iw20p1_sboot.o
+                0x000000000002c70c                sk_new_null
+
+.text.sk_insert
+                0x000000000002c714       0x68
+ .text.sk_insert
+                0x000000000002c714       0x68 libsun8iw20p1_sboot.o
+                0x000000000002c714                sk_insert
+
+.text.sk_push   0x000000000002c77c        0x6
+ .text.sk_push  0x000000000002c77c        0x6 libsun8iw20p1_sboot.o
+                0x000000000002c77c                sk_push
+
+.text.sk_free   0x000000000002c782       0x1a
+ .text.sk_free  0x000000000002c782       0x1a libsun8iw20p1_sboot.o
+                0x000000000002c782                sk_free
+
+.text.X509_EXTENSION_it
+                0x000000000002c79c        0x8
+ .text.X509_EXTENSION_it
+                0x000000000002c79c        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c79c                X509_EXTENSION_it
+
+.text.X509_ALGOR_it
+                0x000000000002c7a4        0x8
+ .text.X509_ALGOR_it
+                0x000000000002c7a4        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c7a4                X509_ALGOR_it
+
+.text.X509v3_get_ext_count
+                0x000000000002c7ac        0x8
+ .text.X509v3_get_ext_count
+                0x000000000002c7ac        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c7ac                X509v3_get_ext_count
+
+.text.X509_EXTENSION_get_object
+                0x000000000002c7b4        0x6
+ .text.X509_EXTENSION_get_object
+                0x000000000002c7b4        0x6 libsun8iw20p1_sboot.o
+                0x000000000002c7b4                X509_EXTENSION_get_object
+
+.text.X509_get_ext_count
+                0x000000000002c7ba        0x8
+ .text.X509_get_ext_count
+                0x000000000002c7ba        0x8 libsun8iw20p1_sboot.o
+                0x000000000002c7ba                X509_get_ext_count
+
+.text.sk_num    0x000000000002c7c2        0xc
+ .text.sk_num   0x000000000002c7c2        0xc libsun8iw20p1_sboot.o
+                0x000000000002c7c2                sk_num
+
+.text.sk_value  0x000000000002c7ce       0x18
+ .text.sk_value
+                0x000000000002c7ce       0x18 libsun8iw20p1_sboot.o
+                0x000000000002c7ce                sk_value
+
+.text.BN_new    0x000000000002c7e8       0x3c
+ .text.BN_new   0x000000000002c7e8       0x3c libsun8iw20p1_sboot.o
+                0x000000000002c7e8                BN_new
+
+.text.bn_expand2
+                0x000000000002c824       0xcc
+ .text.bn_expand2
+                0x000000000002c824       0xcc libsun8iw20p1_sboot.o
+                0x000000000002c824                bn_expand2
+
+.text.BN_num_bits_word
+                0x000000000002c8f0       0x34
+ .text.BN_num_bits_word
+                0x000000000002c8f0       0x34 libsun8iw20p1_sboot.o
+                0x000000000002c8f0                BN_num_bits_word
+
+.text.BN_num_bits
+                0x000000000002c924       0x1c
+ .text.BN_num_bits
+                0x000000000002c924       0x1c libsun8iw20p1_sboot.o
+                0x000000000002c924                BN_num_bits
+
+.text.BN_bn2bin
+                0x000000000002c940       0x4a
+ .text.BN_bn2bin
+                0x000000000002c940       0x4a libsun8iw20p1_sboot.o
+                0x000000000002c940                BN_bn2bin
+
+.text.BN_bin2bn
+                0x000000000002c98a       0x84
+ .text.BN_bin2bn
+                0x000000000002c98a       0x84 libsun8iw20p1_sboot.o
+                0x000000000002c98a                BN_bin2bn
+
+.text.ex_hash_cb
+                0x000000000002ca0e        0x4
+ .text.ex_hash_cb
+                0x000000000002ca0e        0x4 libsun8iw20p1_sboot.o
+
+.text.ex_cmp_cb
+                0x000000000002ca12        0x8
+ .text.ex_cmp_cb
+                0x000000000002ca12        0x8 libsun8iw20p1_sboot.o
+
+.text.def_get_class
+                0x000000000002ca1c       0x84
+ .text.def_get_class
+                0x000000000002ca1c       0x84 libsun8iw20p1_sboot.o
+
+.text.int_free_ex_data
+                0x000000000002caa0       0x70
+ .text.int_free_ex_data
+                0x000000000002caa0       0x70 libsun8iw20p1_sboot.o
+
+.text.int_new_ex_data
+                0x000000000002cb10       0x60
+ .text.int_new_ex_data
+                0x000000000002cb10       0x60 libsun8iw20p1_sboot.o
+
+.text.CRYPTO_new_ex_data
+                0x000000000002cb70       0x1c
+ .text.CRYPTO_new_ex_data
+                0x000000000002cb70       0x1c libsun8iw20p1_sboot.o
+                0x000000000002cb70                CRYPTO_new_ex_data
+
+.text.CRYPTO_free_ex_data
+                0x000000000002cb8c       0x1c
+ .text.CRYPTO_free_ex_data
+                0x000000000002cb8c       0x1c libsun8iw20p1_sboot.o
+                0x000000000002cb8c                CRYPTO_free_ex_data
+
+.text.reset_BIO_reset
+                0x000000000002cba8       0x10
+ .text.reset_BIO_reset
+                0x000000000002cba8       0x10 libsun8iw20p1_sboot.o
+                0x000000000002cba8                reset_BIO_reset
+
+.text.mem_ctrl  0x000000000002cbb8        0x4
+ .text.mem_ctrl
+                0x000000000002cbb8        0x4 libsun8iw20p1_sboot.o
+
+.text.mem_gets  0x000000000002cbbc        0x4
+ .text.mem_gets
+                0x000000000002cbbc        0x4 libsun8iw20p1_sboot.o
+
+.text.mem_puts  0x000000000002cbc0        0x4
+ .text.mem_puts
+                0x000000000002cbc0        0x4 libsun8iw20p1_sboot.o
+
+.text.mem_read  0x000000000002cbc4       0x64
+ .text.mem_read
+                0x000000000002cbc4       0x64 libsun8iw20p1_sboot.o
+
+.text.BUF_MEM_new
+                0x000000000002cc28       0x34
+ .text.BUF_MEM_new
+                0x000000000002cc28       0x34 libsun8iw20p1_sboot.o
+                0x000000000002cc28                BUF_MEM_new
+
+.text.mem_new   0x000000000002cc5c       0x1c
+ .text.mem_new  0x000000000002cc5c       0x1c libsun8iw20p1_sboot.o
+
+.text.BUF_MEM_free
+                0x000000000002cc78       0x24
+ .text.BUF_MEM_free
+                0x000000000002cc78       0x24 libsun8iw20p1_sboot.o
+                0x000000000002cc78                BUF_MEM_free
+
+.text.mem_free  0x000000000002cc9c       0x28
+ .text.mem_free
+                0x000000000002cc9c       0x28 libsun8iw20p1_sboot.o
+
+.text.BUF_MEM_grow_clean
+                0x000000000002ccc4       0x84
+ .text.BUF_MEM_grow_clean
+                0x000000000002ccc4       0x84 libsun8iw20p1_sboot.o
+                0x000000000002ccc4                BUF_MEM_grow_clean
+
+.text.mem_write
+                0x000000000002cd48       0x64
+ .text.mem_write
+                0x000000000002cd48       0x64 libsun8iw20p1_sboot.o
+
+.text.getrn     0x000000000002cdac       0x64
+ .text.getrn    0x000000000002cdac       0x64 libsun8iw20p1_sboot.o
+
+.text.lh_retrieve
+                0x000000000002ce10       0x26
+ .text.lh_retrieve
+                0x000000000002ce10       0x26 libsun8iw20p1_sboot.o
+                0x000000000002ce10                lh_retrieve
+
+.text.lh_insert
+                0x000000000002ce38       0x58
+ .text.lh_insert
+                0x000000000002ce38       0x58 libsun8iw20p1_sboot.o
+                0x000000000002ce38                lh_insert
+
+.text.lh_new    0x000000000002ce90       0x8c
+ .text.lh_new   0x000000000002ce90       0x8c libsun8iw20p1_sboot.o
+                0x000000000002ce90                lh_new
+
+.text.RSA_new_method
+                0x000000000002cf1c       0x94
+ .text.RSA_new_method
+                0x000000000002cf1c       0x94 libsun8iw20p1_sboot.o
+                0x000000000002cf1c                RSA_new_method
+
+.text.RSA_new   0x000000000002cfb0        0x6
+ .text.RSA_new  0x000000000002cfb0        0x6 libsun8iw20p1_sboot.o
+                0x000000000002cfb0                RSA_new
+
+.text.__asn1_probe_data_head
+                0x000000000002cfb8       0x50
+ .text.__asn1_probe_data_head
+                0x000000000002cfb8       0x50 libsun8iw20p1_sboot.o
+
+.text.__sample_atoi
+                0x000000000002d008       0x3c
+ .text.__sample_atoi
+                0x000000000002d008       0x3c libsun8iw20p1_sboot.o
+
+.text.sunxi_certif_create
+                0x000000000002d044       0x2c
+ .text.sunxi_certif_create
+                0x000000000002d044       0x2c libsun8iw20p1_sboot.o
+                0x000000000002d044                sunxi_certif_create
+
+.text.sunxi_certif_free
+                0x000000000002d070        0xc
+ .text.sunxi_certif_free
+                0x000000000002d070        0xc libsun8iw20p1_sboot.o
+                0x000000000002d070                sunxi_certif_free
+
+.text.sunxi_certif_probe_pubkey
+                0x000000000002d07c       0xd8
+ .text.sunxi_certif_probe_pubkey
+                0x000000000002d07c       0xd8 libsun8iw20p1_sboot.o
+                0x000000000002d07c                sunxi_certif_probe_pubkey
+
+.text.sunxi_certif_mem_reset
+                0x000000000002d154       0x16
+ .text.sunxi_certif_mem_reset
+                0x000000000002d154       0x16 libsun8iw20p1_sboot.o
+                0x000000000002d154                sunxi_certif_mem_reset
+
+.text.sunxi_certif_probe_signature
+                0x000000000002d16a       0x14
+ .text.sunxi_certif_probe_signature
+                0x000000000002d16a       0x14 libsun8iw20p1_sboot.o
+                0x000000000002d16a                sunxi_certif_probe_signature
+
+.text.sunxi_certif_history_check
+                0x000000000002d180       0x9c
+ .text.sunxi_certif_history_check
+                0x000000000002d180       0x9c libsun8iw20p1_sboot.o
+                0x000000000002d180                sunxi_certif_history_check
+
+.text.sunxi_bytes_merge
+                0x000000000002d21c       0x80
+ .text.sunxi_bytes_merge
+                0x000000000002d21c       0x80 libsun8iw20p1_sboot.o
+                0x000000000002d21c                sunxi_bytes_merge
+
+.text.sunxi_certif_probe_extension
+                0x000000000002d29c      0x19c
+ .text.sunxi_certif_probe_extension
+                0x000000000002d29c      0x19c libsun8iw20p1_sboot.o
+                0x000000000002d29c                sunxi_certif_probe_extension
+
+.text.sunxi_certif_verify_itself
+                0x000000000002d438      0x190
+ .text.sunxi_certif_verify_itself
+                0x000000000002d438      0x190 libsun8iw20p1_sboot.o
+                0x000000000002d438                sunxi_certif_verify_itself
+
+.text.hash_filter
+                0x000000000002d5c8       0x44
+ .text.hash_filter
+                0x000000000002d5c8       0x44 libsun8iw20p1_sboot.o
+
+.text.store_hash_for_optee
+                0x000000000002d60c       0x64
+ .text.store_hash_for_optee
+                0x000000000002d60c       0x64 libsun8iw20p1_sboot.o
+
+.text.store_key_hash_for_optee.part.1
+                0x000000000002d670       0x3c
+ .text.store_key_hash_for_optee.part.1
+                0x000000000002d670       0x3c libsun8iw20p1_sboot.o
+
+.text.get_old_verion
+                0x000000000002d6ac       0x1a
+ .text.get_old_verion
+                0x000000000002d6ac       0x1a libsun8iw20p1_sboot.o
+                0x000000000002d6ac                get_old_verion
+
+.text.toc1_init
+                0x000000000002d6c8       0x88
+ .text.toc1_init
+                0x000000000002d6c8       0x88 libsun8iw20p1_sboot.o
+                0x000000000002d6c8                toc1_init
+
+.text.toc1_item_read
+                0x000000000002d750       0x26
+ .text.toc1_item_read
+                0x000000000002d750       0x26 libsun8iw20p1_sboot.o
+                0x000000000002d750                toc1_item_read
+
+.text.toc1_item_read_rootcertif
+                0x000000000002d778       0x30
+ .text.toc1_item_read_rootcertif
+                0x000000000002d778       0x30 libsun8iw20p1_sboot.o
+                0x000000000002d778                toc1_item_read_rootcertif
+
+.text.toc1_item_probe_next
+                0x000000000002d7a8       0xb0
+ .text.toc1_item_probe_next
+                0x000000000002d7a8       0xb0 libsun8iw20p1_sboot.o
+                0x000000000002d7a8                toc1_item_probe_next
+
+.text.toc1_verify_and_run
+                0x000000000002d858      0x6c4
+ .text.toc1_verify_and_run
+                0x000000000002d858      0x6c4 libsun8iw20p1_sboot.o
+                0x000000000002d858                toc1_verify_and_run
+
+.text.sunxi_pubkey_hash_cal
+                0x000000000002df1c       0x6c
+ .text.sunxi_pubkey_hash_cal
+                0x000000000002df1c       0x6c libsun8iw20p1_sboot.o
+                0x000000000002df1c                sunxi_pubkey_hash_cal
+
+.text.sunxi_certif_pubkey_check
+                0x000000000002df88       0xf8
+ .text.sunxi_certif_pubkey_check
+                0x000000000002df88       0xf8 libsun8iw20p1_sboot.o
+                0x000000000002df88                sunxi_certif_pubkey_check
+
+.text.sunxi_root_certif_pk_verify
+                0x000000000002e080       0x5c
+ .text.sunxi_root_certif_pk_verify
+                0x000000000002e080       0x5c libsun8iw20p1_sboot.o
+                0x000000000002e080                sunxi_root_certif_pk_verify
+
+.text.sunxi_flash_read
+                0x000000000002e0dc       0x1c
+ .text.sunxi_flash_read
+                0x000000000002e0dc       0x1c libsun8iw20p1_sboot.o
+                0x000000000002e0dc                sunxi_flash_read
+
+.text.load_toc1_from_mmc
+                0x000000000002e0f8      0x100
+ .text.load_toc1_from_mmc
+                0x000000000002e0f8      0x100 libsun8iw20p1_sboot.o
+                0x000000000002e0f8                load_toc1_from_mmc
+
+.text.load_toc1_from_nand
+                0x000000000002e1f8      0x144
+ .text.load_toc1_from_nand
+                0x000000000002e1f8      0x144 libsun8iw20p1_sboot.o
+                0x000000000002e1f8                load_toc1_from_nand
+
+.text.BOOT_NandGetPara
+                0x000000000002e33c       0x18
+ .text.BOOT_NandGetPara
+                0x000000000002e33c       0x18 libsun8iw20p1_sboot.o
+                0x000000000002e33c                BOOT_NandGetPara
+
+.text.load_toc1_from_spinand
+                0x000000000002e354      0x108
+ .text.load_toc1_from_spinand
+                0x000000000002e354      0x108 libsun8iw20p1_sboot.o
+                0x000000000002e354                load_toc1_from_spinand
+
+.text.sunxi_flash_init
+                0x000000000002e45c       0x40
+ .text.sunxi_flash_init
+                0x000000000002e45c       0x40 libsun8iw20p1_sboot.o
+                0x000000000002e45c                sunxi_flash_init
+
+.iplt           0x000000000002e49c        0x0
+ .iplt          0x000000000002e49c        0x0 libsun8iw20p1_sboot.o
+
+.text.sboot_main
+                0x000000000002e49c      0x15c
+ .text.sboot_main
+                0x000000000002e49c      0x15c /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+                0x000000000002e49c                sboot_main
+                0x000000000002e600                . = ALIGN (0x10)
+
+.rodata         0x000000000002e600      0xbb7
+ *(.rodata)
+ .rodata        0x000000000002e600      0xbb7 libsun8iw20p1_sboot.o
+                0x000000000002e618                _ctype
+                0x000000000002ea32                para0
+                0x000000000002ea62                para1
+                0x000000000002ea92                param0x40
+                0x000000000002eaa6                param0x41
+                0x000000000002eabe                random_seed
+                0x000000000002f0f8                mem_method
+                0x000000000002f120                rsa_pkcs1_eay_meth
+
+.rodata.str1.1  0x000000000002f1b7     0x335f
+ .rodata.str1.1
+                0x000000000002f1b7     0x32a3 libsun8iw20p1_sboot.o
+                                       0x338e (size before relaxing)
+ .rodata.str1.1
+                0x000000000003245a       0xbc /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+
+.rel.dyn        0x0000000000032518        0x0
+ .rel.iplt      0x0000000000032518        0x0 libsun8iw20p1_sboot.o
+                0x0000000000032520                . = ALIGN (0x10)
+
+.data           0x0000000000032520      0x768
+ *(.data)
+ .data          0x0000000000032520      0x760 libsun8iw20p1_sboot.o
+                0x0000000000032530                i2c_gpio
+                0x0000000000032560                g_sunxi_dma_desc
+                0x0000000000032b6c                possiable_sub_boot_item
+ .data          0x0000000000032c80        0x8 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+                0x0000000000032c80                toc0_config
+                0x0000000000032c84                mmc_config_addr
+
+.igot.plt       0x0000000000032c88        0x0
+ .igot.plt      0x0000000000032c88        0x0 libsun8iw20p1_sboot.o
+                0x0000000000032c88                . = ALIGN (0x4)
+
+.bss            0x0000000000032c88      0xc50
+                0x0000000000032c88                __bss_start = .
+ *(.bss)
+ .bss           0x0000000000032c88      0xc50 libsun8iw20p1_sboot.o
+                0x0000000000032cb8                i2c_has_init
+                0x0000000000032cbc                twi_gpio
+                0x0000000000032d5c                mmc_arg_addr
+                0x0000000000032f60                mmc_host
+                0x0000000000033000                mmc_dev
+                0x0000000000033318                page_with_bad_block
+                0x000000000003331c                NF_BLOCK_SIZE
+                0x0000000000033320                BOOT1_LAST_BLK_NUM
+                0x0000000000033324                BOOT1_START_BLK
+                0x0000000000033328                NF_PAGE_SIZE
+                0x000000000003332c                NF_PG_SZ_WIDTH
+                0x0000000000033330                NF_BLK_SZ_WIDTH
+                0x0000000000033334                Two_Row_Addr_Flag
+                0x0000000000033338                uboot_start_block
+                0x000000000003333c                uboot_next_block
+                0x0000000000033340                nand_specialinfo_page
+                0x0000000000033344                nand_specialinfo_offset
+                0x0000000000033348                ddr_param
+                0x0000000000033368                NandIOBase
+                0x0000000000033370                NandIndex
+                0x0000000000033374                pagesize
+                0x0000000000033378                read_retry_mode
+                0x0000000000033379                hynix16nm_read_retry_otp_value
+                0x0000000000033399                read_retry_cycle
+                0x000000000003339a                read_retry_reg_num
+                0x000000000003339b                read_retry_reg_adr
+                0x00000000000333a3                read_retry_default_val
+                0x00000000000333ac                read_retry_val
+                0x000000000003349c                hynix_read_retry_otp_value
+                0x00000000000334dc                NandStorageInfo
+                0x0000000000033554                RetryCount
+                0x0000000000033558                PageCachePool
+                0x000000000003356c                ndfc_dma_desc
+                0x0000000000033570                SPIC_IO_BASE
+                0x0000000000033578                OperationOpt
+                0x000000000003357c                UBOOT_START_BLK_NUM
+                0x0000000000033580                UBOOT_LAST_BLK_NUM
+                0x0000000000033584                page_for_bad_block
+                0x0000000000033588                SPN_BLOCK_SIZE
+                0x000000000003358c                SPN_PAGE_SIZE
+                0x0000000000033590                SPN_PG_SZ_WIDTH
+                0x0000000000033594                SPN_BLK_SZ_WIDTH
+                0x000000000003359c                cleanse_ctr
+                0x00000000000335a4                k
+                0x00000000000335b0                certif_history
+                0x00000000000338c4                monitor_entry
+                0x00000000000338c8                uboot_entry
+                0x00000000000338cc                optee_entry
+                0x00000000000338d0                opensbi_entry
+                0x00000000000338d4                freertos_entry
+                0x00000000000338d8                . = ALIGN (0x4)
+                0x00000000000338d8                __bss_end = .
+                0x00000000000338d8                _end = .
+OUTPUT(sboot.elf elf32-littlearm)
+
+.comment        0x0000000000000000       0x2d
+ .comment       0x0000000000000000       0x2d libsun8iw20p1_sboot.o
+                                        0xf18 (size before relaxing)
+ .comment       0x000000000000002d       0x2e /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .comment       0x000000000000002d       0x2e main/sboot_head.o
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 libsun8iw20p1_sboot.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 main/sboot_head.o
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x2f libsun8iw20p1_sboot.o
+ .ARM.attributes
+                0x000000000000002f       0x2d /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .ARM.attributes
+                0x000000000000005c       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000000000007b       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000000000000009a       0x1f /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .ARM.attributes
+                0x00000000000000b9       0x31 main/sboot_head.o
+ .ARM.attributes
+                0x00000000000000ea       0x21 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+.debug_aranges  0x0000000000000000     0x1c08
+ .debug_aranges
+                0x0000000000000000     0x1b50 libsun8iw20p1_sboot.o
+ .debug_aranges
+                0x0000000000001b50       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .debug_aranges
+                0x0000000000001b70       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000001b90       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000001bb0       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_aranges
+                0x0000000000001bd0       0x18 main/sboot_head.o
+ .debug_aranges
+                0x0000000000001be8       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+.debug_info     0x0000000000000000    0x3ff10
+ .debug_info    0x0000000000000000    0x3e572 libsun8iw20p1_sboot.o
+ .debug_info    0x000000000003e572      0xdb3 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .debug_info    0x000000000003f325      0x1cb /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .debug_info    0x000000000003f4f0      0x1cb /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .debug_info    0x000000000003f6bb      0x1cb /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_info    0x000000000003f886      0x614 main/sboot_head.o
+ .debug_info    0x000000000003fe9a       0x76 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+.debug_abbrev   0x0000000000000000     0xb08e
+ .debug_abbrev  0x0000000000000000     0xad3a libsun8iw20p1_sboot.o
+ .debug_abbrev  0x000000000000ad3a      0x214 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .debug_abbrev  0x000000000000af4e       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x000000000000af62       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x000000000000af76       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_abbrev  0x000000000000af8a       0xf0 main/sboot_head.o
+ .debug_abbrev  0x000000000000b07a       0x14 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+.debug_line     0x0000000000000000     0xc874
+ .debug_line    0x0000000000000000     0xc1a5 libsun8iw20p1_sboot.o
+ .debug_line    0x000000000000c1a5      0x273 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .debug_line    0x000000000000c418      0x108 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000c520      0x119 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000c639       0xee /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+ .debug_line    0x000000000000c727       0xe3 main/sboot_head.o
+ .debug_line    0x000000000000c80a       0x6a /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/arch/arm/cpu/armv7/sboot_entry.o
+
+.debug_frame    0x0000000000000000     0x45e8
+ .debug_frame   0x0000000000000000     0x4548 libsun8iw20p1_sboot.o
+ .debug_frame   0x0000000000004548       0x38 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+ .debug_frame   0x0000000000004580       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000000000045a0       0x20 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000000045c0       0x28 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/../lib/gcc/arm-linux-gnueabi/7.2.1/libgcc.a(_dvmd_lnx.o)
+
+.debug_str      0x0000000000000000     0x807f
+ .debug_str     0x0000000000000000     0x7fb1 libsun8iw20p1_sboot.o
+                                      0x202c5 (size before relaxing)
+ .debug_str     0x0000000000007fb1       0xc1 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+                                        0x961 (size before relaxing)
+ .debug_str     0x0000000000008072        0xd main/sboot_head.o
+                                        0x556 (size before relaxing)
+
+.debug_loc      0x0000000000000000    0x222bd
+ .debug_loc     0x0000000000000000    0x2221c libsun8iw20p1_sboot.o
+ .debug_loc     0x000000000002221c       0xa1 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o
+
+.debug_ranges   0x0000000000000000     0x2fe8
+ .debug_ranges  0x0000000000000000     0x2fd8 libsun8iw20p1_sboot.o
+ .debug_ranges  0x0000000000002fd8       0x10 /home/ubuntu/tina-d1-h/lichee/brandy-2.0/spl/sboot/main/sboot_main.o

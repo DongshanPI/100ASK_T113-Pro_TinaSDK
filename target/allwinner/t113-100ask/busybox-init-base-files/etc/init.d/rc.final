@@ -1,0 +1,13 @@
+#!/bin/sh
+
+echo "------run rc.final file-----"
+
+amixer cset name="Headphone Switch" 1
+
+if [ -e /tmp/private/ ]; then 
+	echo "clear private mount info"
+	umount /tmp/private/
+	rm -rf /tmp/private
+	ubiblock -r /dev/by-name/private
+fi
+
