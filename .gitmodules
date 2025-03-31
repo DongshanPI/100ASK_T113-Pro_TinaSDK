@@ -1,0 +1,3 @@
+[submodule "prebuilt"]
+	path = prebuilt
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/tina_sdk_toolchain.git
